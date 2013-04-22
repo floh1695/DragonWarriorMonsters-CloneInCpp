@@ -1,0 +1,1266 @@
+
+
+/=============================================================================\
+|       Dragon Warrior Monsters 2: Cobi's Journey and Tara's Adventure        |
+|                               Game Boy Color                                |
+|                     Breeding and Monster Locations Guide                    |
+|                           Version 1.0(14/12/2001)                           |
+\=============================================================================/
+
+ _____________________________________________________________________________
+/                                                                             \
+|                    T H I S  F A Q  I S  D O N E  B Y                        |
+|                               Rena Chan                                     |
+|                         alucard_rpg@yahoo.com                               |
+|         Star Ocean 2 Archive(http://members.atozasia.com/renachan/)         |
+|                     Mugen(http://www.freewebz.com/mugen/)                   |
+\_____________________________________________________________________________/
+
+*******************************************************************************
+                                 Disclaimer
+*******************************************************************************
+This FAQ is copyright to alucard_rpg@yahoo.com. You may not in anyway,
+distribute it or use it for profitable purposes. If you want to use this FAQ 
+down at your site, you must e-mail me and ask permission. If I ever find out
+that you used this FAQ without my permission, you will be deemed a person who
+can't even ask permission. If you have any questions regarding this FAQ or the
+game, send your e-mail to the above mentioned e-mail address. You may print out
+this FAQ for your own reference; but you must never distribute it for sale or
+any other way that will be profitable for you.
+
+*******************************************************************************
+*   http://www.gamefaqs.com                                                   *
+*=============================================================================*
+*  Please inform me via e-mail if this FAQ is found at places other than the  *
+*  above mentioned sites. Of course, it may be up and I just had not updated  *
+*  the FAQ on this yet. But E-mail me anyway, I'll confirm.                   *
+*                                                                             *
+*  The latest version of this FAQ is found at                                 *
+*  http://www.gamefaqs.com                                                    *
+*  http://www.freewebz.com/mugen/                                             *
+*******************************************************************************
+
+*******************************************************************************
+                              Revision History
+*******************************************************************************
+ _________________________
+| Version 1.0(14/12/2001) \___________________________________________________
+|                                                                             \
+| Stared typing this FAQ. Don't expect too much info as I only recently began |
+| playing this game. And for your information, I have both games, and am      |
+| trying to play them at rotation.                                            |
++-----------------------------------------------------------------------------+
+
+*******************************************************************************
+                                   Contents
+*******************************************************************************
+ _____________________________________________________________________________
+/                                                                             \
+| 1.0 Introduction                                                            |
+| 2.0 Breeding Monsters                                                       |
+|   2.1 Breeding Combination by Monster Family                                |
+|     2.1.1  Slime Family                                                     |
+|     2.1.2  Dragon Family                                                    |
+|     2.1.3  Beast Family                                                     |
+|     2.1.4  Bird Family                                                      |
+|     2.1.5  Plant Family                                                     |
+|     2.1.6  Bug Family                                                       |
+|     2.1.7  Devil Family                                                     |
+|     2.1.8  Zombie Family                                                    |
+|     2.1.9  Material Family                                                  |
+|     2.1.10 Water Family                                                     |
+|     2.1.11 ??? Family                                                       |
+|   2.2 Breeding Combination by Monster                                       |
+| 3.0 Monster Location                                                        |
+|   3.1  Oasis World                                                          |
+|   3.2  Pirate World                                                         |
+|   3.3  Ice World                                                            |
+|   3.4  Sky World                                                            |
+|   3.5  Limbo World                                                          |
+|   3.6  Elf World                                                            |
+|   3.7  Lonely World                                                         |
+|   3.8  Traveler's World                                                     |
+|   3.9  The Power Tower                                                      |
+|   3.10 The Baffle Tower                                                     |
+|   3.11 The Soul Tower                                                       |
+|   3.12 The Magic Key Worlds                                                 |
+|   3.13 Foreign Master's Monsters                                            |
+|   3.14 Free Monsters                                                        |
+|   3.15 Breeding Oppotunities                                                |    
+| 4.0 Monster Skills                                                          |
+| 5.0 Miscellaneous Charts, Stuff and Tips                                    |
+\_____________________________________________________________________________/
+
+===============================================================================
+                              1.0 Introduction
+===============================================================================
+Breeding is the most complicated part of Dragon Warrior Monsters 2. If you have
+played Dragon Warrior Monsters before, you will know. All of the old monsters
+from Dragon Warrior Monsters are in DWM2, in addition to new ones. Even the
+Breeding Combinations for old monsters are the same in DWM2 as with DWM. All
+of the skills in DWM are also in DWM2, also with addition to new ones. This
+Guide is meant to help you with the complexity of Breeding and also to help you
+get all 312 monsters in the game. Quite a number of monsters can only be
+obtained this way. A skill section is also included to help you select skills
+that you want on your monsters.
+
+Why Breed? You may ask. Well, monsters that are recurited early in the game are
+generally weak. In order to beat tougher opponents in battles, you need
+stronger monsters and the only way to achieve that is through Breeding.
+Breeding brings many benefits. Not only a bred monster is stronger, they also
+can learn new skills besides their default skills, which can help you in battle
+in the long run. And also battle more effectively.
+
+This guide explains throughly how breeding works and monster combinations and
+the skills that they can learn. It consists of full information of all monsters
+and how strong they are and how to get them. Information given is as complete
+as possible to help you gamers out there, and also how to get skills you want
+on specfic monsters. I also help you to locate certain monsters that you may
+want to recurit, for breeding purposes.
+
+This Guide is written based on notes that I have on both DWM and DWM2, since
+the monsters in DWM is generally in DWM2 and they have the same breeding
+combinations and skills. Yeah, I have notes, but I never wrote any Guides for
+DWM =(. But anyway, I'm writing one for DWM2 now and it covers both Cobi and
+Tara's games.
+
+* When I'm typing the monster combinations in this Guide, it is written in this
+  format everytime: Base Monster(Name) x Mate Monster(Name) = Monster(Name).
+
+===============================================================================
+                            2.0 Breeding Monsters
+===============================================================================
+To breed monsters, you must first head over to the Starry Shrine of GreatLog.
+The facility only becomes avaliable after you beat the Pirate World. To even
+breed, of course you need a Male and Female monster(Duh!) and they are at Lv 10
+or higher. In the Shrine, talk to Professor Monster. He performs 2 tasks, breed
+your monsters and hatch a egg. Breeding is free, and after you breed 2
+monsters, the 2 monsters return to the wild leaving you an egg. Then, he also
+hatches eggs for you. Hatching eggs costs money, and the cost depends on the
++ Level of the monster inside. A monster with no + Level costs 10G and for
+every + Level, it costs 10 G more. Unlike DWM, DWM2 does not automatically save
+after you breed, so you can afford to make mistakes and still reset and start
+off at your latest save.
+
+After you get your egg, Prof. Monster is able to tell you the monster inside
+but not the gender of the egg. If you want to do that, you must go to the Egg
+Evaluator at the first floor of the Starry Shrine. She can tell you the gender
+of an egg and change it if necessary, especially if you're intending to use
+the egg as a parent for another monster. Hence planning ahead comes in. Decide
+which monsters you want in your party and what kind of skills you want them to
+have and write them down. Also write down the Gender you want the monster to
+have. Blessing an egg changes the Gender of the egg. And it can be very useful.
+Keeping track helps you in the long run. It will save you a lot of hassle later
+on, when you have access to more and more monsters.
+
+To breed, you must first choose a Base Monster, which sets the family that the
+resulting monster will be and a Mate Monster. The Mate Monster is the one that
+usually sets the monster the resulting monster will become. There are three
+types of breeding, namely Family x Family, Monster x Family and Monster Specfic
+Breeding.
+
+Family x Family breeding is the easiest, but the monsters that result are not
+very strong. Monster x Family breeding is the second easiest and produce
+average strength monsters. Monster Specific Breeding is the most complicated,
+but it's the only way to get the most powerful monsters as the most powerful
+monsters are obtained this way.
+
+For Family x Family breeding, refer to Section 5.0 under Basic Breeding by
+Family for the combinations. As for Monster x Family and Monster Specfic
+breeding, refer to Sections 2.1 and 2.2 for more information.
+
+-------------------------------------------------------------------------------
+                  2.1 Breeding Combination by Monster Family
+-------------------------------------------------------------------------------
+This section lists all of the monsters found in the game, their attributes, how
+to breed them, where can they be located, how rare they are, their resistance,
+their natural skills. Refer to this section for the complete individual monster
+information.
+
+Stats are ranked from F- to S(From Low to High)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             2.1.1 Slime Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+===================================| Slime |===================================
+Stats
+Rarity: Common
+Lv Growth: Average
+HP(B), MP(B), ATK(C), DEF(B), AGL(B), INT(B)
+
+Resistance
+Fire-based magic: Weak
+Ice-based magic: Weak
+Wind & Thunder-based magic: Weak
+Magic-Blocking or Theft spells: Strong
+Agility & Defense-Lowering spells: Strong
+Instant Knock-Out spells: Strong
+Poison & Curse spells: Weak
+Lose-a-Turn & Silencing spells: Weak
+Immobilization spells: Strong
+Water-based spells: Weak
+
+Natural Skills: Firebal, MegaMagic, Radiant
+
+Recurit: Your starting monster, Pirate World
+
+How to Breed a Slime
+The only way to get a Slime is by getting 2 low level Slimes or 1 Slime and
+another Slime of the Slime Family and breed them together to get a Stronger
+Slime.
+
+=================================| SpotSlime |=================================
+Stats
+Rarity: Very Common
+Lv Growth: Slightly Above Average
+HP(B), MP(F), ATK(B), DEF(E), AGL(B), INT(D)
+
+Resistance
+Fire-based magic: Weak
+Ice-based magic: Weak
+Wind & Thunder-based magic: Weak
+Magic-Blocking or Theft spells: Strong
+Agility & Defense-Lowering spells: Immune
+Instant Knock-Out spells: Strong
+Poison & Curse spells: Weak
+Lose-a-Turn & Silencing spells: Normal
+Immobilization spells: Strong
+Water-based spells: Weak
+
+Natural Skills: CallHelp, Imitate, LushLicks
+
+Recurit: Oasis World
+
+How to Breed a SpotSlime
+Slime Family x Beast Family
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             2.1.2 Dragon Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+=================================| Crestpent |=================================
+Stats
+Rarity: Common
+Lv Growth: Average
+HP(C), MP(E), ATK(C), DEF(E), AGL(D), INT(D)
+
+Resistance
+Fire-based magic: Strong
+Ice-based magic: Weak
+Wind & Thunder-based magic: Normal
+Magic-Blocking or Theft spells: Weak
+Agility & Defense-Lowering spells: Weak
+Instant Knock-Out spells: Normal
+Poison & Curse spells: Weak
+Lose-a-Turn & Silencing spells: Strong
+Immobilization spells: Weak
+Water-based spells: Normal
+
+Natural Skills: BeDragon, PoisonHit, StopSpell
+
+Recurit: Oasis World
+
+How to Breed a Crestpent
+Dragon Family x BigRoost
+
+=================================| KingCobra |=================================
+Stats
+Rarity: 
+Lv Growth: Common
+HP(A), MP(D), ATK(B), DEF(D), AGL(D), INT(B)
+
+Resistance
+Fire-based magic: Strong
+Ice-based magic: Weak
+Wind & Thunder-based magic: Weak
+Magic-Blocking or Theft spells: Normal
+Agility & Defense-Lowering spells: Normal
+Instant Knock-Out spells: Normal
+Poison & Curse spells: Strong
+Lose-a-Turn & Silencing spells: Weak
+Immobilization spells: Normal
+Water-based spells: Normal
+
+Natural Skills: Curse, K.O. Dance, PoisonHit
+
+Recurit: Oasis World
+
+How to Breed a KingCobra
+Dragon Family x Babble
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             2.1.3 Beast Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+===================================| Beavern |=================================
+Stats
+Rarity: Average
+Lv Growth: Above Average
+HP(B), MP(D), ATK(D), DEF(B), AGL(B), INT(D)
+
+Resistance
+Fire-based magic: Weak
+Ice-based magic: Normal
+Wind & Thunder-based magic: Weak
+Magic-Blocking or Theft spells: Weak
+Agility & Defense-Lowering spells: Strong
+Instant Knock-Out spells: Weak
+Poison & Curse spells: Weak
+Lose-a-Turn & Silencing spells: Strong
+Immobilization spells: Weak
+Water-based spells: Strong
+
+Natural Skills: ChargeUp, Geyser, IceBolt
+
+Recurit: Boss of Oasis World Canal who joins you automatically
+
+How to Breed a Beavern
+Beast Family x Water Family
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                              2.1.4 Bird Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Under Construction...
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             2.1.5 Plant Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+=================================| CactiBall |=================================
+Stats
+Rarity: Very Common
+Lv Growth: Very Fast
+HP(A), MP(A), ATK(A), DEF(C), AGL(C), INT(E)
+
+Resistance
+Fire-based magic: Weak
+Ice-based magic: Weak
+Wind & Thunder-based magic: Strong
+Magic-Blocking or Theft spells: Strong
+Agility & Defense-Lowering spells: Weak
+Instant Knock-Out spells: Weak
+Poison & Curse spells: Normal
+Lose-a-Turn & Silencing spells: Strong
+Immobilization spells: Normal
+Water-based spells: Strong
+
+Natural Skills: HighJump, OddDance, Paralyze
+
+Recurit: Oasis World
+
+How to Breed a CactiBall
+Plant Family x Bug Family
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                               2.1.6 Bug Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+==================================| Catapila |=================================
+Stats
+Rarity: Average
+Lv Growth: Average
+HP(D), MP(E), ATK(B), DEF(C), AGL(B), INT(C)
+
+Resistance
+Fire-based magic: Normal
+Ice-based magic: Normal
+Wind & Thunder-based magic: Weak
+Magic-Blocking or Theft spells: Weak
+Agility & Defense-Lowering spells: Weak
+Instant Knock-Out spells: Weak
+Poison & Curse spells: Strong
+Lose-a-Turn & Silencing spells: Weak
+Immobilization spells: Strong
+Water-based spells: Normal
+
+Natural Skills: PoisonHit, ThickFog, Upper
+
+Recurit: Oasis World(Tara), Oasis World Canal(Tara)
+
+How to Breed a Catapila
+Bug Family x Dragon Family
+
+=================================| GiantWorm |=================================
+Stats
+Rarity: Very Common
+Lv Growth: Very Fast
+HP(D), MP(D), ATK(B), DEF(D), AGL(D), INT(C)
+
+Resistance
+Fire-based magic: Normal
+Ice-based magic: Weak
+Wind & Thunder-based magic: Normal
+Magic-Blocking or Theft spells: Weak
+Agility & Defense-Lowering spells: Weak
+Instant Knock-Out spells: Normal
+Poison & Curse spells: Strong
+Lose-a-Turn & Silencing spells: Weak
+Immobilization spells: Strong
+Water-based spells: Normal
+
+Natural Skills: BeastCut, OddDance, StepGuard
+
+Recurit: Oasis World Canal
+
+How to Breed a GiantWorm
+Bug Family x Devil Family
+
+=================================| TailEater |=================================
+Stats
+Rarity: Very Common
+Lv Growth: Fast
+HP(A), MP(B), ATK(B), DEF(B), AGL(C), INT(E)
+
+Resistance
+Fire-based magic: Weak
+Ice-based magic: Weak
+Wind & Thunder-based magic: Normal
+Magic-Blocking or Theft spells: Normal
+Agility & Defense-Lowering spells: Weak
+Instant Knock-Out spells: Weak
+Poison & Curse spells: Strong
+Lose-a-Turn & Silencing spells: Strong
+Immobilization spells: Strong
+Water-based spells: Normal
+
+Natural Skills: IceSlash, PoisonGas, Radiant
+
+Recurit: Oasis World(Cobi), Oasis World Canal(Cobi)
+
+How to Breed a TailEater
+Bug Family x FloraMan
+WeedBug x Anemon, Plant Family
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             2.1.7 Devil Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Under Construction...
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             2.1.8 Zombie Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+===================================| Spooky |==================================
+Stats
+Rarity: Very Common
+Lv Growth: Slightly Above Average
+HP(B), MP(A), ATK(D), DEF(D), AGL(A), INT(C)
+
+Resistance
+Fire-based magic: Weak
+Ice-based magic: Weak
+Wind & Thunder-based magic: Weak
+Magic-Blocking or Theft spells: Weak
+Agility & Defense-Lowering spells: Normal
+Instant Knock-Out spells: Immune
+Poison & Curse spells: Strong
+Lose-a-Turn & Silencing spells: Weak
+Immobilization spells: Immune
+Water-based spells: Weak
+
+Natural Skills: MouthShut, Outside, Radiant
+
+Recurit: Oasis World Canal
+
+How to Breed a Spooky
+Zombie Family x Slime Family
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            2.1.9 Material Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+=================================| CurseLamp |=================================
+Stats
+Rarity: Average
+Lv Growth: Slightly Above Average
+HP(A), MP(A), ATK(C), DEF(D), AGL(D), INT(C)
+
+Resistance
+Fire-based magic: Weak
+Ice-based magic: Strong
+Wind & Thunder-based magic: Normal
+Magic-Blocking or Theft spells: Normal
+Agility & Defense-Lowering spells: Weak
+Instant Knock-Out spells: Strong
+Poison & Curse spells: Weak
+Lose-a-Turn & Silencing spells: Strong
+Immobilization spells: Weak
+Water-based spells: Weak
+
+Natural Skills: Speed, Upper, TwinHits
+
+Recurit: Boss of Oasis World Mirage Lake who joins you automatically
+
+How to Breed a CurseLamp
+Material Family x WingTree
+Roboster, Roboster 2 x Bird Family
+
+=================================| MadCandle |=================================
+Stats
+Rarity: Common
+Lv Growth: Slightly Above Average
+HP(A), MP(B), ATK(C), DEF(E), AGL(B), INT(A)
+
+Resistance
+Fire-based magic: Weak
+Ice-based magic: Weak
+Wind & Thunder-based magic: Weak
+Magic-Blocking or Theft spells: Weak
+Agility & Defense-Lowering spells: Normal
+Instant Knock-Out spells: Strong
+Poison & Curse spells: Weak
+Lose-a-Turn & Silencing spells: Normal
+Immobilization spells: Weak
+Water-based spells: Weak
+
+Natural Skills: Blaze, RockThrow, Whistle
+
+Recurit: Oasis World Canal
+
+How to Breed a MadCandle
+Material Family x Beast Family
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                              2.1.10 Water Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Under Construction...
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                               2.1.11 ??? Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Under Construction...
+
+-------------------------------------------------------------------------------
+                     2.2 Breeding Combination by Monster
+-------------------------------------------------------------------------------
+This section lists the monsters and how they can be used for Monster x Family
+and Monster Specfic Breeding in alphabetical order. But for more specfic
+monster info, refer to Section 2.1 for more information.
+
+===================================| Beavern |=================================
+This monster does not appear in any breeding patterns as a Base Monster or a
+Mate Monster. It can only be used for Family x Family Breeding.
+(See Section 2.1.3 for full monster info)
+
+=================================| CactiBall |=================================
+This monster does not appear in any breeding patterns as a Base Monster or a
+Mate Monster. It can only be used for Family x Family Breeding.
+(See Section 2.1.5 for full monster info)
+
+==================================| Catapila |=================================
+Catapila x Catapila = MultiEyes
+(See Section 2.1.6 for full monster info)
+
+=================================| Crestpent |=================================
+Crestpent x Crestpent = WingSnake
+(See Section 2.1.2 for full monster info)
+
+=================================| CurseLamp |=================================
+This monster does not appear in any breeding patterns as a Base Monster or a
+Mate Monster. It can only be used for Family x Family Breeding.
+(See Section 2.1.9 for full monster info)
+
+=================================| GiantWorm |=================================
+GiantWorm x Material Family = ArmorPede
+Material Family x GiantWorm = SabreMan
+(See Section 2.1.6 for full monster info)
+
+=================================| KingCobra |=================================
+This monster does not appear in any breeding patterns as a Base Monster or a
+Mate Monster. It can only be used for Family x Family Breeding.
+(See Section 2.1.2 for full monster info)
+
+=================================| MadCandle |=================================
+MadCandle x Anemon
+          x DrakSlime
+          x EvilSeed
+          x FireWeed
+          x MistyWing
+          x Wyvern = Gismo
+(See Section 2.1.9 for full monster info)
+
+===================================| Slime |===================================
+Slime x Copycat = HaloSlime
+Slime x Mommonja
+      x PillowRat = TropicGel
+Slime x Slime = KingSlime(If higher than +4)
+(See Section 2.1.1 for full monster info)
+
+===================================| Spooky |==================================
+Bug Family x Spooky = Droll
+Spooky x Beast Family = Hork
+Spooky x Devil Family = Reaper
+(See Section 2.1.8 for full monster info)
+
+=================================| SpotSlime |=================================
+SpotSlime x SpotSlime = SpotKing(If higher than +4)
+(See Section 2.1.1 for full monster info)
+
+=================================| TailEater |=================================
+TailEater x Devil Family = MultiEyes
+TailEater x TailEater = Droll
+(See Section 2.1.6 for full monster info)
+
+===============================================================================
+                             3.0 Monster Location
+===============================================================================
+This section lists the monsters found at each location and what you can
+recurit. Use this section if you want to know what monsters you can recurit
+at the specfic locations.
+
+-------------------------------------------------------------------------------
+                               3.1 Oasis World
+-------------------------------------------------------------------------------
+Monsters in the Main Oasis World
+Both Versions: CactiBall, Crestpent, King Cobra, SpotSlime
+Cobi's Version: Tail Eater
+Tara's Version: Catapila
+
+Monsters in the Canal
+Both Versions: GiantWorm, Spooky, MadCandle
+Cobi's Version: TailEater
+Tara's Version: Catapila
+Boss: Beavern
+
+Monsters in the Mirage Lake
+Boss: CurseLamp
+
+-------------------------------------------------------------------------------
+                               3.2 Pirate World
+-------------------------------------------------------------------------------
+Monsters in the Main Pirate World
+Both Versions: Antbear, ArmyAnt, ArrowDog, Brushead, Dracky, DragonKid,
+               MadGopher, Merman, Octokid, PearlGel, Petiteel, Pteranod,
+               RogueWave, Slime, Snaily, Wyvern
+Cobi's Version: 1EyeClown, CatFly, DanceVegi, Eggplaton, Gamanian, Healer,
+                MiniDrak, Poisongon, Pyuro
+Tara's Version: Butterfly, CatMage, Facer, Octoreach, Picky, Pixy, Toadstool
+
+Monsters in the West Cape Cave
+Both Versions: PearlGel
+Cobi's Version: Gamanian, Moray, PutreFish
+Tara's Version: Aquarella, Healer, Octokid
+Boss: HoodSquid
+
+Monsters in the Pirate Ship
+Both Versions: JewelBag, RayGigas
+Cobi's Version: Hork
+Tara's Version: Inverzon
+Boss: CaptDead, BoneSlave
+
+Monsters in the Volcano Cave
+Both Versions: AquaHawk, DarkEye, DragonKid, SpikyBoy, Tortragon
+Cobi's Version: EvilWand, RotRaven
+Tara's Version: DeadNite, Slabbit
+
+-------------------------------------------------------------------------------
+                                3.3 Ice World
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                                3.4 Sky World
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                               3.5 Limbo World
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                                3.6 Elf World
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                               3.7 Lonely World
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                             3.8 Traveler's World
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                              3.9 The Power Tower
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                             3.10 The Baffle Tower
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                              3.11 The Soul Tower
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                           3.12 The Magic Key Worlds
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                         3.13 Foreign Master's Monsters
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                              3.14 Free Monsters
+-------------------------------------------------------------------------------
+Under Construction...
+
+-------------------------------------------------------------------------------
+                          3.15 Breeding Oppotunities
+-------------------------------------------------------------------------------
+Under Construction...
+
+===============================================================================
+                              4.0 Monster Skills
+===============================================================================
+I will only list all the skills found in the game in this section and how to
+obtain them. If you want a better explanation of the different types of skills,
+namely Growth Skills, Learned Skills, Regular Skills and even Combined Skills,
+please refer to Jimeous' Skills Data FAQ also found here at GameFAQs.
+
+Skills Under Construction...
+
+===============================================================================
+                   5.0 Miscellaneous Charts, Stuff and Tips
+===============================================================================
+This section lists every thing else important to breeding, like capturing
+monsters, etc and anything else that I did not put at the other sections.
+
+========================Basic Monster Breeding by Family=======================
+Base Monster: Slime Family
+Mate Monster: Slime Family = Stronger Base Monster
+              Dragon Family = DrakSlime
+              Beast Family = SpotSlime
+              Bird Family = WingSlime
+              Plant Family = TreeSlime
+              Bug Family = Snaily
+              Devil Family = SlimeNite
+              Zombie Family = Babble
+              Material Family = BoxSlime
+              Water Family = PearlGel
+              ??? Family = KingSlime
+
+Base Monster: Dragon Family
+Mate Monster: Slime Family = DragonKid
+              Dragon Family = A Stronger Base Monster
+              Beast Family = Tortragon
+              Bird Family = Pteranod
+              Plant Family = Gasgon
+              Bug Family = FairyDrak
+              Devil Family = LizardMan
+              Zombie Family = Poisongon
+              Material Family = Swordgon
+              Water Family = Drygon
+              ??? Family = Orochi
+
+Base Monster: Beast Family
+Mate Monster: Slime Family = Tonguella
+              Dragon Family = Almiraj
+              Beast Family = Stronger Base Monster
+              Bird Family = CatFly
+              Plant Family = PillowRat
+              Bug Family = Saccer
+              Devil Family = Grizzly
+              Zombie Family = Skullroo
+              Material Family = WindBeast
+              Water Family = Beavern
+              ??? Family = DarkHorn
+
+Base Monster: Bird Family
+Mate Monster: Slime Family = Picky
+              Dragon Family = Wyvern
+              Beast Family = BullBird
+              Bird Family = Stronger Base Monster
+              Plant Family = FloraJay
+              Bug Family = DuckKite
+              Devil Family = MadPecker
+              Zombie Family = MadRaven
+              Material Family = MistyWing
+              Water Family = AquaHawk
+              ??? Family = ZapBird
+
+Base Monster: Plant Family
+Mate Monster: Slime Family = MadPlant
+              Dragon Family = FireWeed
+              Beast Family = FloraMan
+              Bird Family = WingTree
+              Plant Family = Stronger Base Monster
+              Bug Family = CactiBall
+              Devil Family = Gupple
+              Zombie Family = ToadStool
+              Material Family = AmberWeed
+              Water Family = Slurperon
+              ??? Family = Rosevine
+
+Base Monster: Bug Family
+Mate Monster: Slime Family = GiantSlug
+              Dragon Family = Catapila
+              Beast Family = Gophecada
+              Bird Family = Butterfly
+              Plant Family = WeedBug
+              Bug Family = Stronger Base Monster
+              Devil Family = GiantWorm
+              Zombie Family = Lipsy
+              Material Family = StagBug
+              Water Family = Pyuro
+              ??? Family = Digster
+
+Base Monster: Devil Family
+Mate Monster: Slime Family = Pixy
+              Dragon Family = MedusaEye
+              Beast Family = Gremlin
+              Bird Family = Demonite
+              Plant Family = DarkEye
+              Bug Family = EyeBall
+              Devil Family = Stronger Base Monster
+              Zombie Family = SkulRider
+              Material Family = EvilBeast
+              Water Family = Bubblemon
+              ??? Family = ArcDemon
+
+Base Monster: Zombie Family
+Mate Monster: Slime Family = Spooky
+              Dragon Family = MadSpirit
+              Beast Family = PutrePup
+              Bird Family = RotRaven
+              Plant Family = Mummy
+              Bug Family = DarkCrab
+              Devil Family = DeadNite
+              Zombie Family = Stronger Base Monster
+              Material Family = Shadow
+              Water Family = Skulpent
+              ??? Family = WhiteKing
+
+Base Monster: Material Family
+Mate Monster: Slime Family = JewelBag
+              Dragon Family = EvilWand
+              Beast Family = MadCandle
+              Bird Family = CoilBird
+              Plant Family = Facer
+              Bug Family = SpikyBoy
+              Devil Family = MadMirror
+              Zombie Family = RogueNite
+              Material Family = Stronger Base Monster
+              Water Family = Brushhead
+              ??? Family = Balzak
+
+Base Monster: Water Family
+Mate Monster: Slime Family = Petiteel
+              Dragon Family = Moray
+              Beast Family = WalrusMan
+              Bird Family = RayGigas
+              Plant Family = Anemon
+              Bug Family = Aquarella
+              Devil Family = Merman
+              Zombie Family = PutreFish
+              Material Family = Octokid
+              Water Family = Stronger Base Monster
+              ??? Family = Grakos
+
+====================================+ Levels===================================
+When you mate 2 monsters together, the resulting monster is assigned a + Level
+based on the parents' + Levels and/or experience levels. The higher the
++ Level, the more powerful the monster will be when it hatches. It's easy to
+raise the + Levels of monsters. All you have to do is to breed over and over
+again. + Levels affect some of the monster combinations. Though it is very few,
+but you still must take note of it. If you want to have a higher + Level for
+your monster, it's best to train them to their maximum experience levels, so
+that the offspring will be as strong as it can go. It's tedious, but it helps
+you in the long run. To learn a monster's maximum Experience Level, talk to the
+LandOwl in the Stable.
+
+* + Levels work differently in a Game Link Cable Breeding. The + Level is only
+  taken from your Base Monster and the Exp Levels of both monsters.
+
+* A monster that's reached it's maximum experience level is indicated by a star
+  next to it's level.
+
+                           + Level Ratings by Exp Level
++-----------------------------------------+-----------------------------------+
+|     Sum of Male's + Female's Levels     |         Resulting + Level         |
++-----------------------------------------+-----------------------------------+
+|                 20-39                   |                 +1                |
+|                 40-59                   |                 +2                |
+|                 60-75                   |                 +3                |
+|                 76-99                   |                 +4                |
+|                 100+                    |                 +5                |
++-----------------------------------------+-----------------------------------+
+
+========================Recuriting Monsters in the Wild========================
+At the start of the game, monsters may join you even without coaxing them with
+meat. But after the first area, in order to recurit monsters, you need to use
+either a BeefJerky(Common), PorkChop(Common), Rib(Average to Strong), Sirlion
+(Strong) or a MeteOrb(For monster you really want and must have) to lure them
+into your party. Heck, you can even recurit monsters that come with the Foreign
+Monster Masters, if you have the patience. Below is the sure fire way of
+getting any monster that you want, even from Foreign Masters.
+
+1. Bring one/a few ShinyHarp, Lots of Meat(Sirlions are best and they can be
+   bought for 1,000G), a few Bookmarks, 3 of your monsters. One of them must
+   have the skill Ironize.
+2. Enter a world that has the monster you want, or a world where a Foreign
+   Master appears if you want to recurit from them.
+3. When you're at the apporiate place, Save. Use a Bookmark if you cannot save
+   normally.
+4. If it's a Foreign Monster Master, talk to him/her. If it's a monster battled
+   through normal battles, use a ShinyHarp.
+5. If it's not a monster that you want that appears, reset the game and try
+   until you get the monster you want.
+6. Kill all the monsters except the one you want to recurit.
+7. Cast Ironize, then use as many meat as you can before Ironize wears off.
+   Cast Ironize again if you feel the meat given is not enough. Keep on doing
+   it until you're satisfied.
+8. Kill the monster. If it did not join you, reset and do things all over
+   again. If the gender of the monster is not correct either, reset also.
+9. Save as soon as you can when you get the monster you wanted.
+
+=======================Breeding over the Game Link Cable=======================
+When you breed, the monster you pick will be your Base Monster and the monster
+your friend chooses is your Mate Monster. It's also true for your friend. The
+monster your friend picks is his/her Base Monster and the monster you pick is
+his/her Mate Monster.
+
+When Breeding over a Game Link Cable, the personalities of your monsters are
+taken into consideration. If both monsters has personalities that clash, then
+the mate is not possible.
+
+Hotblood
+Not Compatible With
+Earnest, Pushy, Snobby, Daredevil, Serious, Prideful, Nosy, Whimsy, Cruel,
+Coward, Gullible, Carefree, Lazy
+
+Eager
+Not Compatible With
+Smug, Snobby, Serious, Simple, Prideful, Nosy, Spoiled, Cruel
+
+Smug
+Not Compatible With
+Eager, Snobby, Innocent, Smart, Sly, Cruel, Affable, Coward
+
+Earnest
+Not Compatible With
+Hotblood, Earnest, Pushy, Daredevil, Cool/Calm, Seriuos, Selfish, Sly,
+Cruel, Shy, Gullible, Lazy
+
+Pushy
+Not Compatible With
+Hotblood, Earnest, Pushy, Cool/Calm, Selfish, Innocent, Whimsy, Smart,
+Cruel, Shy, Coward, Gullible, Carefree, Lazy
+
+Snobby
+Not Compatible With
+Hotblood, Eager, Smug, Snobby, Daring, Daredevil, Selfish, Nosy, Whimsy,
+Sly, Cruel, Affable, Coward, Gullible, Carefree, Lazy
+
+Reckless
+Not Compatible With
+Selfish, Whimsy, Gullible
+
+Daring
+Not Compatible With
+Snobby, Selfish, Smart, Sly, Coward, Gullible
+
+Daredevil
+Not Compatible With
+Hotblood, Earnest, Snobby, Serious, Innocent, Cruel, Carefree, Lazy
+
+Cool/Calm
+Not Compatible With
+Earnest, Pushy, Selfish, Nosy, Sly, Affable, Gullible, Lazy
+
+Serious
+Not Compatible With
+Hotblood, Eager, Earnest, Daredevil, Selfish, Smart, Cruel, Gullible, Lazy
+
+Selfish
+Not Compatible With
+Earnest, Pushy, Snobby, Reckless, Daring, Cool/Calm, Serious, Selfish,
+Simple, Spoiled, Smart, Cruel, Shy, Carefree
+
+Simple
+Not Compatible With
+Eager, Selfish
+
+Innocent
+Not Compatible With
+Smug, Pushy, Daredevil, Nosy, Cruel, Affable, Gullible, Lazy
+
+Prideful
+Not Compatible With
+Hotblood, Eager, Smart, Sly, Cruel, Coward
+
+Nosy
+Not Compatible With
+Hotblood, Eager, Snobby, Cool/Calm, Innocent, Nosy, Whimsy, Spoiled, Cruel
+
+Whimsy
+Not Compatible With
+Hotblood, Pushy, Snobby, Reckless, Nosy, Cruel, Affable, Gullible, Lazy
+
+Spoiled
+Not Compatible With
+Eager, Selfish, Nosy, Sly, Cruel, Coward, Gullible
+
+Smart
+Not Compatible With
+Smug, Pushy, daring, Serious, Selfish, Prideful, Sly, Cruel, Affable,
+Gullible, Lazy
+
+Sly
+Not Compatible With
+Smug, Earnest, Snobby, Daring, Cool/Calm, Prideful, Spoiled, Smart, Sly,
+Cruel, Shy, Coward, Carefree
+
+Cruel
+Not Compatible With
+Hotblood, Eager, Smug, Earnest, Pushy, Snobby, Daredevil, Serious, Selfish,
+Innocent, Prideful, Nosy, Whimsy, Spoiled, Smart, Sly, Cruel, Shy, Coward,
+Gullible, Carefree, Lazy
+
+Shy
+Not Compatible With
+Earnest, Pushy, Selfish, Sly, Cruel, Affable, Lazy
+
+Affable
+Not Compatible With
+Smug, Snobby, Cool/Calm, Innocent, Whimsy, Smart, Shy, Gullible
+
+Coward
+Not Compatible With
+Hotblood, Smug, Pushy, Snobby, Daring, Innocent, Spoiled, Sly, Cruel, Coward
+
+Gullible
+Not Compatible With
+Hotblood, Earnest, Pushy, Snobby, Reckless, Daring, Cool/Calm, Serious,
+Innocent, Whimsy, Spoiled, Smart, Cruel, Affable, Lazy
+
+Carefree
+Not Compatible With
+Hotblood, Pushy, Snobby, Daredevil, Selfish, Sly, Cruel, Lazy
+
+Lazy
+Not Compatible With
+Hotblood, Earnest, Pushy, Snobby, Daredevil, Cool/Calm, Serious, Innocent,
+Whimsy, Smart, Cruel, Shy, Gullible, Carefree, Lazy
+
+* Use Books to immediately affect their personality.
+  BeNiceBook - Raises compatibility with Defense Strategy
+  CheaterBook - Decreases compatibility with Defense Strategy
+  ComedyBook - Decreases compatibility with Mixed Strategy
+  HorrorBook - Decreases compatibility with Charge Strategy
+  QuestBook - Raises compatibility with the Charge Strategy
+  SmartBook - Raises compatibility with the Mixed Strategy
+
+O - Good at choosing own strategy.
+# - Average at choosing own strategy.
+X - Shows very poor judgement when choosing skills.
++--------------------+-----------------+-----------------+-----------------+
+|  Personality       |      Charge     |     Mixed       |     Defense     |
++--------------------+-----------------+-----------------+-----------------+
+| Hotblood           |        O        |        O        |        O        |
+| Eager              |        O        |        O        |        #        |
+| Smug               |        O        |        O        |        X        |
+| Earnest            |        O        |        #        |        O        |
+| Pushy              |        O        |        #        |        #        |
+| Snobby             |        O        |        #        |        X        |
+| Reckless           |        O        |        X        |        O        |
+| Daring             |        O        |        X        |        #        |
+| Daredevil          |        O        |        X        |        X        |
+| Cool/Calm          |        #        |        O        |        O        |
+| Serious            |        #        |        O        |        #        |
+| Selfish            |        #        |        O        |        X        |
+| Simple             |        #        |        #        |        O        |
+| Innocent           |        #        |        #        |        #        |
+| Prideful           |        #        |        #        |        X        |
+| Nosy               |        #        |        X        |        O        |
+| Whimsy             |        #        |        X        |        #        |
+| Spoiled            |        #        |        X        |        X        |
+| Smart              |        X        |        O        |        O        |
+| Sly                |        X        |        O        |        #        |
+| Cruel              |        X        |        O        |        X        |
+| Shy                |        X        |        #        |        O        |
+| Affable            |        X        |        #        |        #        |
+| Coward             |        X        |        #        |        X        |
+| Gullible           |        X        |        X        |        O        |
+| Carefree           |        X        |        X        |        #        |
+| Lazy               |        X        |        X        |        X        |
++--------------------+-----------------+-----------------+-----------------+
+
+===================================Terry Mode==================================
+When you collect over 150 monsters, Terry, the Monster Master from GreatTree,
+comes to GreatLog for a visit. If you think you can beat him, head over to the
+arena and challenge him. Save before you do. Terry's team consists of a
+GreatDrak, Watabou and Durran. If you manage to defeat him, you will be able to
+breed your monsters with your monsters in DWM.
+
+But before you breed, there is one thing you must note. Monsters that are
+specific to DWM2 will be converted to a monster found in DWM. For Example,
+if you mate a FooHero from DWM2 with a Dragon from DWM, the FooHero will be
+converted to a TreeBoy for this breeding purpose. So, you're actually mating
+a TreeBoy with a Dragon. Be careful when you want to breed a monster from DWM2
+with a monster with DWM.
+
++--------------------------------------+--------------------------------------+
+|      Dragon Warrior Monsters 2       |        Dragon Warrior Monsters       |
++--------------------------------------+--------------------------------------+
+| Angleron                             | Poisongon                            |
+| Aquadon                              | SkyDragon                            |
+| AxeShark                             | BattleRex                            |
+| BossTroll                            | Gigantes                             |
+| Bubblemon                            | Orc                                  |
+| CancerMan                            | Digster                              |
+| CaptDead                             | DeadNite                             |
+| CatMage                              | CatFly                               |
+| Clawster                             | DarkCrab                             |
+| CloudKing                            | Gismo                                |
+| Devipine                             | Gulpple                              |
+| Digong                               | WhipBird                             |
+| Drygon                               | MadDragon                            |
+| Dumbira                              | Tonguella                            |
+| Emyu                                 | MadGoose                             |
+| EvilWell                             | Grendal                              |
+| Exaucers                             | MadMirror                            |
+| FishRider                            | SkulRider                            |
+| FooHero                              | TreeBoy                              |
+| Garudian                             | MadCondor                            |
+| GhosTree                             | HerbMan                              |
+| GigaDraco                            | BattleRex                            |
+| HaloSlime                            | MetalKing                            |
+| HoodSquid                            | AgDevil                              |
+| KingSquid                            | Servant                              |
+| LampGenie                            | Centasaur                            |
+| Merman                               | EvilBeast                            |
+| MerTiger                             | Trumpeter                            |
+| MimeSlime                            | Slabbit                              |
+| MultiEyes                            | Droll                                |
+| Niterich                             | DeadNoble                            |
+| Octogon                              | Skeletor                             |
+| RayGigas                             | DuckKite                             |
+| Roboster 2                           | Roboster                             |
+| RushFish                             | Goategon                             |
+| SeaHorse                             | Demonite                             |
+| Serpentia                            | Orochi                               |
+| Shantak                              | ZapBird                              |
+| Sickler                              | StagBug                              |
+| Vampirus                             | RayBurn                              |
+| WalrusMan                            | Grizzly                              |
+| WarMantis                            | ArmyCrab                             |
+| WhaleMage                            | WhiteKing                            |
++--------------------------------------+--------------------------------------+
+
+===================================Dream Egg===================================
+In the monster farm of GreatLog, you can find a CactiBall watching over an
+empty nest. When you talk to it, it tells you about special Monster Eggs called
+Dream Eggs. You can find them in Treasure Chests in the Magic Key Worlds. If
+you find one, it will automatically be transferred to the farm for care and
+feeding.
+
+You can actually affect what monster the Dream Egg will become by feeding it
+with certain items. You can make the monster have lots of HP/MP, or even
+manipulate the Egg's Family. When you're tired of feeding the Dream Egg, trade
+it over to your friend's GamePak. You can trade it back in the same manner.
+At the end of one of these Trades, it will hatch and your monster is born.
+
+HP
+BeNiceBook, DracoBelt, Herb, LifeAcorn, LoveWater
+
+MP
+ElfWater, MagicBelt, MagicCape, OddBelt, Potion
+
+ATK
+QuestBook, SteelFang, STRSeed
+
+DEF
+DrakScale, PltnmCape, SailorRing
+
+AGL
+CheaterBook, OrcaCape, StarryBracelet
+
+INT
+GoldCape, SmartBook, WiseHat
+
+Slime Family
+Comedy Book
+
+Dragon Family
+Quest Book
+
+Beast Family
+Horror Book
+
+Bird Family
+BeNiceBook
+
+Plant Family
+SmartBook
+
+Bug Family
+Rib
+
+Devil Family
+MageRing
+
+Zombie Family
+BadMeat
+
+Material Family
+SageStone
+
+Water Family
+OrcaCape
+
+??? Family
+Pltnm Cape
+
+=================================Breeding Tips=================================
+- Start planning early, that way it will save you a lot of trouble later on
+  when you need stronger monsters. It's also to get monsters that you want
+  earlier and get the skills you want on your monsters.
+- Train your monsters to their Maximum Experience Levels. That way, the
+  offspring will have a high + Level and will start off stronger.
+- Early in the game, especially if you're in need of monsters with more skills,
+  breed earlier without them at Max Levels yet. Only when you can handle
+  yourself quite well, start training monsters to their Max Exp Level.
+
+================================Important Notes================================
+- You cannot recurit the Boss Monsters you face in the Main, Hidden and Magic
+  Key Worlds.
+- You cannot recurit monsters that appear before you defeat the Bosses in a
+  Magic Key World.
+- You cannot recurit ??? Family monsters that appear in a Magic Key World.
+- You cannot recurit monsters you battle in the Arena.
+
+*******************************************************************************
+                                    Credits
+*******************************************************************************
+ _____________________________________________________________________________
+/                                                                             \
+| Me for typing out this FAQ.                                                 |
+|                                                                             |
+| Enix and anyone else involved for making this game.                         |
+|                                                                             |
+| Prima Guide for doing a DWM2 Guide Book.                                    |
+|                                                                             |
+| Any other sites that put my FAQ up.                                         |
+\_____________________________________________________________________________/
+
+                        Copyright(C) alucard_rpg@yahoo.com
+
+
+
+
+
+
+
+
+
+

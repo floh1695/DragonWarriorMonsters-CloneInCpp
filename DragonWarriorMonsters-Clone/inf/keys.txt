@@ -1,0 +1,334 @@
+
+******************************************************************************
+*                                                                            *
+*  ______                               _    _                 _             *
+*  |  _  \                             | |  | |               (_)            *
+*  | | | |_ __ __ _  __ _  ___  _ __   | |  | | __ _ _ __ _ __ _  ___  _ __  *
+*  | | | | '__/ _` |/ _` |/ _ \| '_ \  | |/\| |/ _` | '__| '__| |/ _ \| '__| *
+*  | |/ /| | | (_| | (_| | (_) | | | | \  /\  / (_| | |  | |  | | (_) | |    *
+*  |___/ |_|  \__,_|\__, |\___/|_| |_|  \/  \/ \__,_|_|  |_|  |_|\___/|_|    *
+*                    __/ |                                                   *
+*                   |___/                                                    *
+*              ___  ___                _                  _____              *
+*              |  \/  |               | |                / __  \             *
+*              | .  . | ___  _ __  ___| |_ ___ _ __ ___  `' / /'             *
+*              | |\/| |/ _ \| '_ \/ __| __/ _ \ '__/ __|   / /               *
+*              | |  | | (_) | | | \__ \ ||  __/ |  \__ \ ./ /___             *
+*              \_|  |_/\___/|_| |_|___/\__\___|_|  |___/ \_____/             *
+*                                                                            *
+******************************************************************************
+                                       
+                               MAGIC KEY WORLDS
+
+                                  VERSION 1
+
+                                  12/15/05
+
+                               BY TACKYDRESSER
+
+******************************************************************************
+
+1.  INTRODUCTION
+
+2.  HOW TO OBTAIN A MAGIC KEY
+
+3.  HOW TO READ A MAGIC KEY
+    
+    A.  KEY APPRAISER
+    B.  INTERPRETING THE KEY NAME
+
+4.  HOW TO NAGIVATE A MAGIC KEY WORLD
+
+    A.  CITIES AND DUNGEONS
+    B.  MONSTERS AND BOSSES
+    C.  TRAVELLING MONSTER MASTERS
+
+5.  HOW TO TRADE A MAGIC KEY
+
+6.  GRATITUDES AND LEGALESE
+
+******************************************************************************
+
+1.  INTRODUCTION
+
+The magic key worlds are one of the features that gives such rich, extended 
+replay value to Dragon Warrior Monsters 2: Cobi's Journey and Tara's 
+Adventure. They are great places to level up your monsters or to capture new,
+more powerful monsters. After logging 450+ hours on Tara's Adventure and over
+200 hours on Cobi's Journey, I have obtained hundreds of magic keys. This
+guide will help you figure out what kinds of monsters you will find, as well
+as what features you will encounter in a magic key world.  
+
+******************************************************************************
+
+2.  HOW TO OBTAIN A MAGIC KEY
+
+There are an infinite number of magic keys. Magic keys can be obtained in 
+the following places:
+
+* In a treasure chest on the Eastern Mountain in the Ice World
+
+* In a treasure chest in the Sage Tower in the Sky World
+
+* As a prize in arena battles.  They are prizes in the B,A,and S class 
+  battles.
+
+* As a prize for defeating a Monster Master in a magic key world
+
+* In treasure chests in a magic key world
+
+******************************************************************************
+
+3.  HOW TO READ A MAGIC KEY
+
+Once you obtain a magic key, you must have it appraised before you can enter 
+the world.  There is a key shop in GreatLog.  Climb the stairs to the right 
+of the Battle Arena entrance.  The shop is the first door as you head to the 
+left.
+
+    A.  KEY APPRAISER
+
+        The Key Appraiser will appraise your key for a fee.  The higher the 
+        appraisal fee, usually the better the key world will be.  The name of
+        the key indicates the famillies of monsters encountered and their 
+        rarity. The name of the key is based on the type and level of monsters
+        in your party when you obtained the key.  The more rare and powerful
+        the monsters in your party, the better the key will be.  To check the
+        rarity of your monster, go to the library and look in your monster 
+        catalog.  Each monster is assigned a number of stars depending on 
+        how rare it is.  One star means your monster is common.  You will
+        probably not get a good key with these monsters in your party.  
+        A four star monster is very rare, and having them in your party
+        usually will snag you a good key.
+
+    B.  INTERPRETING THE KEY NAME
+
+        Each key has two parts to its name.  The first part is an adjective.
+        This tells whether you will find common or rare monsters in the world.
+        The second part of the name tells what families of monsters you will 
+        encounter in the world. Generally you will encounter two different 
+        monster families in a world; however, there are rarer keys that have 
+        only one monster family in it.
+
+        ------------------------
+
+        Key Adjective:  This lists the names in order from the most common to 
+        the rarest.
+
+        Ylw
+        Plain
+        Green
+        Blue
+        First
+        Red
+        White
+        Quiet
+        Black
+        Gaudy
+        Silvr
+        Dream
+        Misty
+        Secrt
+        Shiny
+        Last
+        
+        -----------------------------
+
+        Key Worlds
+
+        2nd Part        Family
+        of Name
+
+        ------------------------------
+
+        Beast           Beast 
+        Bird            Bird 
+        Bug             Bug 
+        Death           Zombie 
+        Devil           Devil 
+        Draco           Dragon 
+        Lord            ??? 
+        Slime           Slime 
+        Thing           Material 
+        Tree            Plant 
+        Water           Water 
+
+        Bsmt            Slime and Devil 
+        Cave            Slime and Dragon 
+        Cliff           Bird and Material 
+        Crag            Beast and Material 
+        Cstle           Dragon and Devil 
+        Depth           Plant and Water 
+        Desrt           Dragon and Material 
+        Field           Dragon and Beat 
+        Forst           Beast and Devil 
+        Gardn           Slime and Plant 
+        Grass           Beast and Bug 
+        Grave           Beast and Zombie 
+        Grove           Plant and Devil 
+        Gulch           Zombie and Material 
+        Haven           Beast and Plant 
+        Hell            Devil and Zombie 
+        Hill            Dragon and Bug 
+        Hole            Bug and Devil 
+        Isle            Slime and Beast 
+        Islet           Bird and Water 
+        Jail            Slime and Zombie 
+        Jungl           Beast and Bird
+        Lake            Dragon and Water
+        Land            Plant and Bug
+        Log             Plant and Bird
+        Magma           Slime and Material
+        Manor           Plant and Material
+        Mine            Plant and Dragon
+        Moon            Devil and Material
+        Mound           Dragon and Zombie
+        Mtn.            Devil and Bird
+        Ocean           Devil and Water
+        Pit             Slime and Bug
+        Pond            Water and Bug
+        River           Water and Zombie
+        Sea             Water and Slime
+        Shore           Water and Beast
+        Sky             Bird and Bug
+        Soil            Bug and Material
+        Star            Water and Material
+        Swamp           Plant and Zombie
+        Tomb            Bug and Zombie
+        Torch           Slime and Bird
+        Tower           Dragon and Bird
+        View            Zombie and Bird
+
+************************************************************************
+
+4.  HOW TO NAVIGATE A MAGIC KEY WORLD
+
+Magic key worlds are randomly generated.  You could have two keys with
+the same name, but the landscape and layout will be different.  Each 
+world will have similarities.  The tasks are the same--defeat 
+mini-bosses and big bosses, and explore dungeons for treasure.  To access an
+appraised key world, go to the Magic Door and select the key.  If it has
+a black star beside the name, then you have defeated all the bosses.
+
+    A.  CITIES AND DUNGEONS
+
+        Each key world will have at least one city/castle, one big
+        boss, and one dungeon.  The number of cities, dungeons, and
+        mini-bosses will depend on the layout of the world.  There are
+        1,2,3, or 4 island worlds.
+
+        Single island:  This will have at least one city or castle, one
+        dungeon (usually more), and one big boss.  There are no mini-bosses.
+
+        2,3, or 4 islands:  These will have at least one city or castle
+        and at least one dungeon. On each island, there will be a warp chamber
+        that leads to another island.  Before you can use it to warp to 
+        another island, you must defeat the mini-boss guarding the warp port.
+
+        As you explore a world, more of the map will be uncovered.  Once
+        you have explored everywhere, the entire map will be visible. 
+
+        Cities and castles (except for the big boss castle) will have
+        at least a priest.  Some have an inn and/or a vendor.
+
+        Dungeons are either caves or towers. They vary in length and layout.
+        At the end, you will come to a treasure room with a chest.  The 
+        treasures are accessories, magic keys, or dream eggs.  
+
+        NOTE:  You will NOT get a dream egg if you already have one in the 
+        nest.  You will NOT be able to pick up a magic key if you have a 
+        full key inventory.  The key will remain in the chest, so you can go
+        back to the dungeon and retrieve it when you delete a key.
+
+        B.  MONSTERS AND BOSSES
+
+        The key name indicates the monster families you will encounter in a
+        key world.  Until you defeat the mini-bosses or the big boss, none of
+        the monsters will join your party.  Once you have defeated a boss,
+        then the monsters on that island will be able to join you.  Boss
+        or mini-boss monsters will NOT join your party.  If you have a Lord
+        key, you CANNOT recruit any ??? monster to join your party.  These 
+        worlds are great for leveling up, even if you can't snag the monsters.
+
+        C.  TRAVELLING MONSTER MASTERS
+
+        If you walk around a key world, you may encounter wandering monster
+        masters.  They will offer to battle you, and if you accept their
+        challenge and win, they will give you items.  They often have rare 
+        monsters that you can lure away if you defeat them. Defeating them
+        will net you loads of experience points, too.
+
+	  Warriors(male or female): They usually give you a warpwing.  If you 
+        don't have a full key inventory, you may get another magic key.
+ 
+        Priest: They will offer to heal you.  They can even revive KO'd 
+        monsters.  Some will make you fight them to get healed.
+
+        Shopkeepers: They sell items.  Some sell items at outrageous prices.
+        If you find one who wants to battle and you win, he will fill your
+        inventory with meat.
+
+        Bard:  You want to find these green guys!!  If you defeat him, he will 
+        raise the lowest stats of all your monsters by 20 points. If a monster
+        is KO'd, it will not get its stats raised.
+
+        Wizard:  They sell you a map of the world.  Not very useful.
+
+        Casino ship:  Sometimes you can see a ship off the shore of the 
+        island.  If you swim out to it, you can play a slot machine game.
+        You can win money or tiny medals or even a meteorb.
+
+        Bunny girl:  She will ask you to play a high-low card game. If you
+        guess correctly, you can win money.
+        
+      
+************************************************************************
+
+5.  HOW TO TRADE A MAGIC KEY
+
+You can trade keys from one game to another.  You need two gameboys, one GB
+link cable, and friend with either the Cobi or Tara game.  At the start menu,
+select the key trade option.  The game will step you through the trading
+process.  If you trade with someone who is not very far in the game, you will 
+not get a good key.  Be careful when you trade an unappraised key.  Since the 
+key monsters and levels are set when you first acquire the key, you could 
+possibly give your friend a rare key.  Appraise them before trading.
+
+
+************************************************************************
+
+6.  GRATITUDES AND LEGALESE
+
+Thanks to my son, who bought me DWM2:Tara's Adventure about 3 years ago.  He 
+thought I would like it because it had a girl on the cover.  He also traded 
+many of his good keys to me in exchange for some very common ones.
+
+Thanks to CJayC for continuing to provide one of the most comprehensive and 
+THE best website for gamers all over the world to gather and share their
+knowledge and love of video games.  Even an outlier on the GameFAQS 
+demographic curve, like me, can find a home on the site. :-)
+
+Thanks to you for reading this.  I hope it answered your questions.
+
+If you find any errors, have comments, or have more information you 
+think should be added, please email me at peppycat@gmail.com. I will credit
+you with the information.
+
+This may be not be reproduced under any circumstances except for 
+personal, private use. It may not be placed on any web site or otherwise 
+distributed publicly without advance written permission. Use of this guide 
+on any other web site or as a part of any public display is strictly 
+prohibited, and a violation of copyright.
+
+Old gamers never die.  They just level up.
+
+Copyright 2005 Amy Floyd
+
+
+        
+
+
+
+
+
+

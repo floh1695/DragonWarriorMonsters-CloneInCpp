@@ -1,0 +1,826 @@
+		--------------------------------------------
+		~ Dragon Warrior Monsters 2 Cobi's Journey ~
+		--------------------------------------------
+
+			   Breeding Resistances v2
+		
+				by DD - 2012
+
+
+While breeding for the last few missing monsters in my library I decided that
+my next target should be to breed some ultimate monsters. If you are reading
+this, you are most likely at the same point in the game. If not, keep this for
+later, in an early stage breeding for skills is a better idea.
+
+I tried to get some information on this topic from the net, but couldn't find
+any facts, just rumors.
+
+Well the basic resistances of every monster are known. You can find them in a
+FAQ known as "Resistance Data" by Jimeous on dwm2united.cjb.net or
+"Monster Data Guide" by DragonLord on GameFAQs.com
+Read it. Now.
+Whenever I say "basic resistance" I am referring to the data shown there.
+
+Then I found Jimeous Gameshark FAQ which gave me some pointers how the game 
+stores the monsters data in its memory. Using this knowledge I was able to see
+the resistances of my monsters and conduct an experiment. 
+Since then I got my hands on the tools I needed to analyse the games assembler
+code and validate my findings. However my numbers turned out to be a bit to
+optimistic, so here is v2.
+
+
+== Possible resistances of a child ==
+
++: Plus of the child
+B: Basic resistance of the child
+P: Added resistances of the parents
+-> Possible resistances of the child
+
++------+---+----------------------------------------------------+
+|  +   | B | P:	1	2	3	4	5	6	|
++------+---+----------------------------------------------------+
+|      | 0 |	0	0	0,1	0,1	0,1,2	1,2	|
+|   5  | 1 |	1	1	1,2	1,2	1,2,3	2,3	|
+|      | 2 |	2	2	2	2	2,3	2,3	|
++------+---+----------------------------------------------------+
+|      | 0 |	0	0	0,1	0,1	1,2	1,2	|
+|  10  | 1 |	1	1	1,2	1,2	2,3	2,3	|
+|      | 2 |	2	2	2	2	2,3	2,3	|
++------+---+----------------------------------------------------+
+|      | 0 |	0	0	0,1	0,1	1,2	2	|
+|  20  | 1 |	1	1	1,2	1,2	2,3	3	|
+|      | 2 |	2	2	2	2	2,3	2,3	|
++------+---+----------------------------------------------------+
+|      | 0 |	0	0	0,1	1	2	2	|
+|  34  | 1 |	1	1	1,2	2	3	3	|
+|      | 2 |	2	2	2	2	2,3	2,3	|
++------+---+----------------------------------------------------+
+|      | 0 |	0	0	0,1	1	2	2	|
+|  50  | 1 |	1	1	1,2	2	3	3	|
+|      | 2 |	2	2	2	2	2,3	3	|
++------+---+----------------------------------------------------+
+|      | 0 |	0	0	1	1	2	2	|
+| 100  | 1 |	1	1	2	2	3	3	|
+|      | 2 |	2	2	2	2	2,3	3	|
++------+---+----------------------------------------------------+
+
+
+
+== Required + for highest resistance ==
+
++-------+-------------------------------+
+|	|		+		|
++-------+-------------------------------|
+|  P	|  B:	0	1	2	|
++-------+-------------------------------|
+|  3	|	100	100	-	|
+|  4	|	34	34	-	|
+|  5	|	10,34	10,34	inf	|
+|  6	|	20	20	50	|
++-------+-------------------------------+
+
+
+== Interesting observations ==
+
+- Unlike DWM1 The egg evaluator will not tell you if a monster inherited
+  some resistances.
+
+- It is impossible to get a monster with an immunity to MegaMagic,
+  since there is none to start with.
+
+- The grandparents are irrelevant. So are the basic resistances
+  and the levels of the parents. (Busting some rumors)
+
+- The parents current (inherited) resistances are added.
+  It makes no difference if they have 1+3 or 2+2.
+
+  This means if one parent is immune, but the other only slightly resistant,
+  the child will not be immune.
+
+- It doesn't matter if the parent with the high + 
+  is the parent with the high resistance.
+  (This was suggested and seemed logical, however it is not true,
+   only the childs + matters)
+  
+  This means: there is no need to breed GoldSlimes+99, you can just breed
+  any monster+99 with a GoldSlime and the child will inherit its resistances.
+
+
+- The most significant value is the basic resistance of the child.
+
+- A monster with a basic resistance of 3 will always have 3.
+  No "weaklings" in DWM2.
+
+- Many people say "all monsters can be best if bred right". 
+  Sadly this is not true.
+  If the monster has a basic resistance of 0 it can not achieve immunity.
+  Don't blame me, I didn't make the game. 
+
+- The chances to inherit a resistance increase with the + of the child.
+
+- The limit for the 5 basic 2 case is 200 so it's a 50/50 chance at +99.
+
+- It is easier to breed an immunity into a monster with a base resistance of 1.
+  Since there are no monsters with only 1 and 3 (but with 2,3 only) this means
+  getting perfect resistances is almost always chance based.
+  In a weird way that makes perfect sense.
+
+- 100 may sound bad, since the highest possible + is 99. 
+  Yet I have not seen a single monster above +92 that did not inherit them.
+  Also those values are resistances, not immunities: on the way to a perfect
+  monster, +50 is enough, at least if you do not consider chain breeding.
+
+
+== Tipps ==
+
+GoldSlimes have awesome resistances, yet the family+family breedings mostly
+produce monsters with multiple 0s.
+It might be a good way to "import" some resistances into another family, but
+you won't get perfect resistances by doing only that.
+
+
+Breeding an immunity into a monster with a basic resistance of 2 is hard!
+When using monster + own family you can only get 2+3 basic 2 -> chance based.
+Try to find a recipe that uses two other monsters and try to get both of
+them immune, since 3+3 basic 2 -> 3. Sometimes this is impossible:
+Divineagon has 2 against BigBang and while Orochi can be bred to be immune to
+it, Skydragon can't. Same for GoldGolem with Water.
+
+Keeping such a resistance is even worse. Let's say you finaly bred a Divineagon
+that is immune to BigBang. If you now want to breed another immunity into it,
+the mate must have an immunity to BigBang, too, or you might loose it again.
+Plan ahead.
+
+
+
+
+== Chainbreeding ==
+
+The idea behind chainbreeding is to breed another monster with the desired
+immunities into a monster over and over again until you have luck and it sticks.
+This has two problems:
+1. As I said above the mate must have immunities if the child has a base of 2,
+or you have a chance of loosing the immunity. GoldGolem and DarkMate have no
+zeroes, yet chainbreeding them is inneffective, since there is no MaterialFM 
+monster that can have the neccessary immunities. Maybe it is even impossible.
+2. It is chance based and the result is not directly accessible in the game.
+Unless you can look into the games memory, you have to find out the hard way
+if it worked, or not.
+
+Chainbreeding works very well for the ?-Monster, since you can breed almost 
+anything into them without changing the monster. One of them is realy easy:
+
+ ~~ DarkDrium ~~
+
+1. Get a DarkDrium (this is the hard part)
+2. Breed GoldSlimes into it until it is immune to everything.
+
+Darkdrium:	2 2 2 2 2 3 3 3 2 2 3 3 2 3 3 2 2 2 3 3 3 3 3 3 3 3 2
+GoldSlime:	3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 1 1 1 3 2 3
+
+As you can see DarkDrium is immune to the four things Goldslime is not.
+Everytime you breed a Goldslime into it you have a chance to inherit some of
+the immunities. If that happened, breeding it again with a Goldslime will not
+result in loosing those, if it is +50 or higher. Which is pretty normal for a
+DarkDrium. Sooner or later it will max all resistances. 
+
+
+
+== Ultimate recipes ==
+
+Two easy recipes for GoldSlime and GranSlime to introduce you to the
+basic ideas how an ultimate recipe is found. 
+
+
+ ~~ GoldSlime ~~
+
+Have a look at GoldSlimes basic resistances:
+		                              *           A A A   B
+GoldSlime:	3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 1 1 1 3 2 3
+
+* The maximum for Megamagic is 2 so we can ignore this one.
+To get a perfect GoldSlime the parents need to have a sum of 5 in the
+three resistances marked A (turn-skip and shuts) and 6 in the one 
+marked B (GigaSlash). Because we have 6 basic 2 we also need +50.
+
+There is an easy way to do this: KingSlime+GoldGolem.
+
+Now GoldGolem has A=2 and KingSlime has A=1. If we breed a KingSlime with
+A=3 we have the needed 5. Both monsters also need to be immune to GigaSlash.
+
+		                                          A A A   B
+KingSlime:	1 1 1 1 1 1 3 2 3 2 2 3 3 3 3 2 1 1 1 1 1 1 1 1 1 1 1
+GoldGolem:	2 2 2 2 1 2 3 3 3 3 3 3 2 2 3 1 2 2 3 3 3 2 2 2 1 1 2
+
+
+Breeding the KingSlime:
+SpotKing	1 1 1 0 0 1 3 2 3 2 2 3 3 3 3 2 1 1 0 1 0 2 2 2 2 2 1
++KingLeo	1 1 1 2 2 1 1 1 3 1 1 2 3 3 3 1 1 2 1 2 1 3 3 3 3 3 1
+=KingSlime	1 1 1 1 1 1 3 2 3 2 2 3 3 3 3 2 1 1 1 1 1 3 3 3 3 3 1 @+34
+To get the 5 over 1 = 3 the child needs to be +34.
+
+
+Breeding a GoldGolem with an immunity to GigaSlash:
+The recepies for GoldGolem aren't very friendly when it comes to Gigaslash,
+so we use another way: 
+We breed a GoldGolem twice with another material monster that has 3.
+(1+3 basic 1 = 2, 2+3 basic 1 = 3 @+34).
+
+
+Gigaslash and MaterialFM:
+Well there is no monster in the material family that has this immunity.
+But there are quite some monsteres with a 1, so getting there should be easy:
+Lets have a look at MadCandle and CoildBird. Both have 1 against Gigaslash,
+the first is MaterialFM+BeastFM the second MaterialFM+BirdFM. 
+In both families there are multiple monsters with this immunity.
+So we can, for example, breed a Cloudking with a Catfly for a MadCandle+34.
+
+
+At least one of your monsters however should have a higher + because at
+the end we need to reach +50 with Goldslime. Also don't forget to breed
+all the attacks in. 
+
+
+
+ ~~ GranSlime ~~
+
+Well basically we can breed two perfect Goldslimes, then breed them
+together. If we do that we would need two monsters +34 and two +50.
+There is a shortcut:
+
+Have a look at GranSlimes basic resistances:
+		            - -               *       -   A A A   B -
+GranSlime:	3 3 3 3 3 3 1 1 3 3 3 3 3 3 3 2 3 3 3 2 3 2 2 2 2 3 2
+
+Now if the child is +50 it inherits some immunities from its parents:
+GoldSlime	3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 1 1 1 3 2 3
++GoldSlime	3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 1 1 1 3 2 3
+=GranSlime	3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 2 2 2 3 3 3 @+50
+
+* Megamagic 
+- the immunities it gets from the GoldSlimes
+B GranSlime is immune to GigaSlash.
+
+Therefore it is not neccessary to breed perfect GoldSlimes. 
+This reduces the needed monsters to two SpotKings and two KingLeos 
+that are breeded together to get two KingSlimes with +34 and +50.
+Add two wild GoldGolems then breed the Goldslimes together.
+You actually don't need to start with +50, as each breeding will
+add some +, a wild GoldGolem might already be level 50 and you may 
+want to train your SlimeKing to 50, too, to get all the attacks and the
++5 bonus, so +40 might be enough, but I am sure you are aware of that.
+
+
+
+ ~~ DarkDrium ~~
+
+There is a guaranteed way to get a perfect DarkDrium,
+but it's a bit harder than breeding a normal DarkDrium.
+(Nintendo Power, Nintendo Power, get the clues that you can use)
+
+While this may look insane at first, you actually only need nine
+monsters with high + and the last branch, GrandSlime, is perfect to
+hold your skill set. With two exceptions, Mirudraas and Bosstroll,
+you can breed everything at level 10. You might want to start those
+two branches a bit higher than noted, if you want to ignore training.
+
+Name		Base resistances
+target		the resistances we want this monster to have
+sum needed	the sums the parents must have to satisfy the target
+
+parent 1	the targets for the parents. Marked with a * if the
+parent 2	targets are the monsters basic resistances.
+
++xx		the needed + for this step. None if the recipes for
+		the parents satisfy the need with their +.
+
+
+
+#####################################################################
+
+Darkdrium	2 2 2 2 2 3 3 3 2 2 3 3 2 3 3 2 2 2 3 3 3 3 3 3 3 3 2
+target		3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3
+
+sum needed	6 6 6 6 6       6 6     6       6 6                 6
+
+DeathMore3	3 3 3 3 3       3 3     3       3 3                 3
+GranSlime  	3 3 3 3 3       3 3     3       3 3                 3
+
+---------------------------------------------------------------------
+
+GranSlime	3 3 3 3 3 3 1 1 3 3 3 3 3 3 3 2 3 3 3 2 3 2 2 2 2 3 2
+		3 3 3 3 3       3 3     3       3 3                 3
+		                                                    6
+
+GoldSlime *	                                                    3
+GoldSlime *	                                                    3
+
++50 
+
+As you can see it is not neccessary to use a perfect Granslime, any 
+two Goldslimes are ok, as long as the resulting Granslime is +50.
+
+#####################################################################
+DeathMore:
+   Branches: DarkMate, Armorpion
+---------------------------------------------------------------------
+
+DeathMore3 	3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 1 2 2 3 3 3 3 3 3 3 2 3
+		3 3 3 3 3       3 3     3       3 3                 3
+
+		        6                       6 6
+
+DeathMore2	        3                       3 3
+DarkMate                3                       3 3
+
+---------------------------------------------------------------------
+
+DeathMore2	2 2 2 2 1 2 3 3 3 3 3 3 2 2 3 1 1 2 3 2 3 3 3 3 2 1 3
+		        3                       3 3
+		        5                       5 6
+
+DeathMore2	        2                       2 3
+GoldSlime *	        3                       3 3
+
+I call this a double breed. We up the 1s to 3s by adding 2 Goldslimes
+---------------------------------------------------------------------
+
+DeathMore2	2 2 2 2 1 2 3 3 3 3 3 3 2 2 3 1 1 2 3 2 3 3 3 3 2 1 3
+		        2                       2 3
+		        4                       4 6
+
+DeathMore2	        1                       1 3
+GoldSlime *	        3                       3 3
+
+---------------------------------------------------------------------
+
+DeathMore2	2 2 2 2 1 2 3 3 3 3 3 3 2 2 3 1 1 2 3 2 3 3 3 3 2 1 3
+		        1                       1 3
+		                                  6
+
+DeathMore	                                  3
+Armorpion	                                  3
+
+---------------------------------------------------------------------
+
+DeathMore	1 2 2 1 1 2 3 3 3 2 3 3 3 3 3 1 1 2 3 2 3 3 3 3 1 0 2
+		                                  3
+		                                  6
+
+Mirudraas	                                  3
+Azurile	*	                                  3
+
+---------------------------------------------------------------------
+
+Mirudraas	2 2 2 1 2 2 3 3 3 2 3 3 3 3 3 1 1 2 3 2 3 3 3 3 1 1 1
+		                                  3
+		                                  6
+
+Esterk		                                  3
+GoldSlime *	                                  3
+
+---------------------------------------------------------------------
+
+Esterk		1 2 2 2 0 1 3 3 3 3 3 3 2 2 3 1 2 1 3 2 3 3 3 3 1 1 1
+		                                  3
+
+finaly a 1, double breed with anything that is immune to Ice-Breathe
+
++40 (Mirudraas needs +50 and with 2 breedings we get max. +10 )
+
+#####################################################################
+Armorpion:
+---------------------------------------------------------------------
+
+Armorpion	1 2 2 1 0 2 1 3 2 1 1 3 1 1 3 1 2 2 3 3 3 1 1 1 3 3 1
+		                                  3
+		                                  6
+
+WarMantis	                                  3
+RogueNite	                                  3
+
+---------------------------------------------------------------------
+
+WarMantis	1 0 0 1 0 1 1 2 3 1 1 2 1 1 1 1 1 1 2 2 2 1 1 1 2 2 1
+		                                  3
+
+double breed with
+Skularach *	                                  3
+
++34
+
+---------------------------------------------------------------------
+
+RogueNite	0 0 0 0 0 2 1 1 3 0 0 1 0 0 3 0 0 2 1 1 1 0 0 0 0 0 2
+		                                  3
+		                                  6
+
+MaterialFM *	                                  3
+Niterich *	                                  3
+
+(MetalDrak, Roboster2, IceMan, MudDoll, Golem, StoneMan)
+
++50
+
+#####################################################################
+DarkMate:
+   Branches: BossTroll
+---------------------------------------------------------------------
+
+DarkMate	2 2 2 2 2 2 3 3 3 3 3 3 2 2 3 2 2 2 3 3 3 1 1 3 1 1 2
+		        3                       3 3
+		        6                       6 6
+
+GoldGolem               3                       3 3
+MetalKing *	        3                       3 3
+
+---------------------------------------------------------------------
+
+GoldGolem	2 2 2 2 1 2 3 3 3 3 3 3 2 2 3 1 2 2 3 3 3 2 2 2 1 1 2
+		        3                       3 3
+		        5                       6 6
+
+LavaMan		        2                       3 3
+BossTroll  	        3                       3 3
+
++50 (well 5 breeds down the BossTroll branch should bring 16 points)
+
+---------------------------------------------------------------------
+
+LavaMan		3 3 1 2 0 1 0 0 3 0 0 1 0 0 3 0 3 1 0 0 0 0 0 0 0 0 0
+		        2                       3 3
+		        5                         5
+
+MetalDrak 	        2                         3
+ZapBird		        3                         2
+
+---------------------------------------------------------------------
+
+ZapBird		1 1 1 3 3 1 0 0 1 2 0 2 0 0 1 0 1 1 0 1 0 2 2 2 2 2 0
+		        3                         2
+		                                  4
+
+ZapBird	*	                                  1
+BirdFM *                                          3 
+
+(Rainhawk, Blizzardy, Craigdevil, Azurile) 
+
++34
+
+---------------------------------------------------------------------
+
+MetalDrak	1 1 1 0 0 2 1 0 3 0 0 2 0 0 3 0 1 3 2 3 2 0 0 0 0 0 1
+		        2                         3
+		        5
+
+CloudKing *	        3
+Andreal                 2
+
+---------------------------------------------------------------------
+
+Andreal		2 2 2 0 0 0 0 2 2 2 0 2 0 0 2 0 2 2 0 0 0 1 1 1 0 0 1
+		        2
+		        5
+
+Skydragon *	        2  ( also BattleRex * )
+FunkyBird *	        3
+
+OR
+
+Pteranod		3  <- RayBurn/Divinegon + Zapbird/Azurile @31
+Gulpple *	        2
+
+OR 
+
+DragonFM *	        2  <- Rayburn, BattleRex, SkyDragron, Divinegon
+Gulpple		        3  <- WingTree + Demonite @ +31
+
+and many more
+
++34
+
+#####################################################################
+BossTroll
+---------------------------------------------------------------------
+
+BossTroll	1 1 1 1 1 1 0 0 3 0 0 0 0 0 3 0 1 1 0 2 0 1 0 0 0 1 0
+		        3                       3 3
+		        5                       5 5
+
+BossTroll	        2                       3 3
+Demonite                3                       2 2
+
+---------------------------------------------------------------------
+
+BossTroll	1 1 1 1 1 1 0 0 3 0 0 0 0 0 3 0 1 1 0 2 0 1 0 0 0 1 0
+		        2                       3 3
+		        4                       5 5
+
+BossTroll	        1                       3 3
+Demonite                3                       2 2
+
+---------------------------------------------------------------------
+
+BossTroll	1 1 1 1 1 1 0 0 3 0 0 0 0 0 3 0 1 1 0 2 0 1 0 0 0 1 0
+		        1                       3 3
+		                                5 5
+
+Lionex/Titanis *                                2 2
+DarkHorn	                                3 3
+
+---------------------------------------------------------------------
+
+Demonite	1 1 1 3 3 2 0 0 2 0 0 2 0 0 2 0 0 0 0 1 1 1 2 2 2 1 0
+		        3                       2 2
+		                                5 5
+
+Lionex/Titanis *                                2 2
+Azurile *	                                3 3
+
++34 (you need 2 of these)
+
+---------------------------------------------------------------------
+
+DarkHorn	1 1 0 0 0 1 1 2 3 1 3 1 3 3 3 1 1 1 0 2 1 3 3 3 3 3 1
+		                                3 3
+		                                5 5
+
+IronTurtle *	                                2 2
+Mudou *		                                3 3
+
++34
+
+#####################################################################
+
+
+ ~~ Deathmore3 ~~
+
+Well since Deathmore3 is the last step before Darkdrium the recipe is
+almost identical. Two differences:
+-Missing resistance against MegaMagic
+-Missing immunity against GigaSlash
+
+The first one is already there, since DarkMate has 2 naturally and
+DeathMore2 inherits 2 from the GoldSlimes we used to up its resistances.
+
+So let's focus on getting the GigaSlash immunity:
+DeathMore3 has a base of 2, so both parents need to be immune.
+
+A) DeathMore2 with GigaSlash immunity:
+
+DeathMore2 has a base of 1, which means we only need 5, and GoldSlime
+has 2, so if we solve the problem of getting it immune earlier in the
+tree we will not loose it here. We could of course breed a GoldSlime with 
+the needed Immunity, but that is not neccessary. Let's follow the tree
+further down: Armorpion is naturally immune, so we can get the immunity
+by breeding a 2 into DeathMore1, which has a base of 0. Azurile is immune,
+so the problem is reduced to breeding a 2 into Mirudraas (base 1).
+Parents are GoldSlime (base 2) and Esterk (base 1).
+Again we could breed the immunity into GoldSlime to reach the sum of 4.
+But: Esterk can be bred using Pizzaro (base 1) + KingLeo (base 3).
+And there it is. If we use Kingleo and the Esterk is +34, which is already
+neccessary so Mirudraas reaches +50, the GigaSlash immunity is inherited by
+all the descendants up to DeathMore2. 
+
+B) DarkMate with GigaSlash immunity:
+
+Base 1, so we need 2 and 3, parents are GoldGolem (base 1) and a wild 
+MetalKing (base 1). The later one is easy, breed it for +34 and twice 
+with a GranSlime and it inherits the immuntity.
+But how to up GoldGolem to 2? We need a sum of 4, Bosstroll gets 2 if you
+always choose Titanis (1) instead of Lionex (0). I know a way to get
+Bosstroll a GigaSlash immunity, but it involves two Mudous, so it's not
+realy a good solution and we would still need a 1 for LavaMan.
+
+That leaves us with:
+
+LavaMan with GigaSlash resistance:
+
+LavaMan		3 3 1 2 0 1 0 0 3 0 0 1 0 0 3 0 3 1 0 0 0 0 0 0 0 0 0
+		        2                       3 3               2
+		        5                         5               5
+
+MetalDrak 	        2                         3               2
+ZapBird		        3                         2               3
+
+MetalDrak is base 0, so no immunity there. A ZapBird with Ice-Breath
+resistance and GigaSlash Immunity is easy: Breed a GigaSlash Immunity 
+into an Esterk and than an Azurile or a Rainhawk with that.
+
+MetalDrak with GigaSlash resistance:
+
+MetalDrak	1 1 1 0 0 2 1 0 3 0 0 2 0 0 3 0 1 3 2 3 2 0 0 0 0 0 1
+		        2                         3               2
+		        5                                         5
+
+CoilBird	        3                                         3
+Andreal                 2                                         2
+
+Good news: we have a resistance less when searching for parents.
+Bad News: zeroes. 
+Also: Cloudking has a 2 and Gizmo is a requirement (0) so no way there.
+CoilBird to the rescue. 1 in both resistances and MaterialFM + BirdFM.
+Let's use CloudKing + Azurile @+34.
+Andreal: There are some ways to get an Andreal, the one that uses
+Gulpple is bad, cause base 0, too. I suggested Battlerex + FunkyBird
+for the Lightning resistance and we can use that one:
+FunkyBird has Gigaslash 2, and BattleRex has 1 and is bred with
+DragonFM + KingLeo. The later has 3 and dragons with 2 are common.
+
+
+
+#####################################################################
+
+
+
+Legal:
+Dragon Warrior Monsters 2 Copyright © 2001 Enix Inc. All Rights Reserved.
+
+Disclaimer:
+I'm just some guy interested in the mechanics of this game. I decided to share
+my findings with you, if you want to redistribute this file, you are obligated
+to jump on one foot, hold your nose and offer your soul to DarkDream, 
+God of the Demonlords. Failing to do so may or may not result in terrible
+nightmares.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		--------------------------------------------
+		~ Dragon Warrior Monsters 2 Cobi's Journey ~
+		--------------------------------------------
+
+			    Monster Data Storage
+		
+				by DD - 2011
+		
+
+=  WARNING  =
+This is technical stuff, if you have no idea how to look into the memory of
+your game, ignore it.
+Do not try to change your games memory if you are unsure what you are doing.
+I warned you, if you loose or damage your savegame, it's not my fault.
+= \WARNING  =
+
+
+Most of this is based on Jimeous Gameshark Codes. I just filled in some blanks.
+If you ever read this: thank you Jimeous.
+
+
+Data for "active monsters" (in team, on the farm and eggs) starts at A000.
+Sleeping monsters are stored somewhere else.
+Each entry is A5 (165) bytes long, so the data for the second monster
+starts at A0A5.
+
+Monsters on the farm are shown in the order they are stored, however the
+monsters in the team are always shown first and eggs are not shown in that
+list. So if you have 8 monsters, 2,4,0 in your team and 1 is an egg,
+the order would be 2,4,0,3,5,6,7
+
+To reliably know which monster has which storage place you could:
+- take them in your team and read the data at C6FE. That byte is the place of
+  your first teammate, the following two bytes are the numbers of the second
+  and third.
+- overwrite some data for all 30 places (I did this with wilderness, but name
+  or master would be cool, too, since you can directly write the start address
+  in hex there, if you wish)
+- a just bred / hatched / awakend monster is always the last one. That one is
+  easy to find by the huge block of zeros behind it.
+  (unless you have 30 active monsters)
+
+
+Enough talking, this is the structure of the monster data:
+
++=======================================+
+| Off.| Bytes|	Data			|
+|-----+------+--------------------------|
+| 00  |	 1   |	01 = farm, 02 = team	|
+| 01  |	 6   |	Name			|
+| 07  |	 4   |	-name?- (f0/00)		|
+| 0B  |	 2   |	Monster Type		|
+| 0D  |	 1   |	Family + Base		|
+| 0E  |	 1   |	Gender / Command	|
+| 0F  |	 6   |	Master name		|
+| 15  |	 4   |	-name?- (f0/00)		|
+| 19  |	 1   |	master number		|
+| 1A  |	 2   |	fathers type		|
+| 1C  |	 2   |	mothers type		|
+| 1E  |	 6   |	fathers Master name	|
+| 24  |	 4   |	-name?- (f0/00)		|
+| 28  |	 1   |	master number (00/FF)	|
+| 29  |	 6   |	mothers Master name	|
+| 2F  |	 4   |	-name?- (f0/00)		|
+| 33  |	 1   |	master number (00/FF)	|
+| 34  |	 8   |	Skills			|
+| 3C  |	 25  |	Skill learning list	|
+| 55  |	 1   |	Status			|
+| 56  |	 1   |	cur level		|
+| 57  |	 1   |	max level		|
+| 58  |	 3   |	exp			|
+| 5B  |	 2   |	cur HP			|
+| 5D  |	 2   |	max HP			|
+| 5F  |	 2   |	cur MP			|
+| 61  |	 2   |	max MP			|
+| 63  |	 2   |	ATK			|
+| 65  |	 2   |	DEF			|
+| 67  |	 2   |	INT			|
+| 69  |	 2   |	AGL			|
+| 6B  |	 2   |	WLD			|
+| 6D  |	 1   |	+			|
+| 6E  |	 1   |	01 = egg ; 00 = hatched	|
+| 6F  |	 4   |	Personality		|
+| 73  |	 27  |	Resistances		|
+| 8E  |	 6   |	fathers name		|
+| 94  |	 4   |	-name?- (f0/00)		|
+| 98  |	 1   |	fathers +		|
+| 99  |	 6   |	mothers name		|
+| 9F  |	 4   |	-name?- (f0/00)		|
+| A3  |	 1   |	mothers +		|
+| A4  |	 1   |	item			|
++=======================================+
+
+The Codes for skills, monster type and family can be found in
+ Jimeous Gameshark FAQ.
+
+
+Skill learning list:
+Monsters basic skills, Fathers basic skills, Mothers basic skills, 
+Pedigrees skills, Mates skills, no doubles, filled with FF
+
+
+Family + Base
+lower 4 bit encode the family,
+higher 4 bit: 0: father is base, 1: mother is base
+
+Gender + Command
+lower 4 bit: 0: male, 1: female
+higher 4 bit: 0: charge, 3: command, A: defense, B: mixed, 
+
+(No idea why those two bytes are split to store more info)
+
+
+the -name?- bytes:
+It looks like names up to 9 symbols (+1 byte for F0) were planed, but didn't
+make it in the game.
+These 4 byte blocks are either filled with 00 or with F0.
+F0 marks the end of a string.
+
+
+Master number:
+Behind each master name entry is a single byte, which is always identical for
+"own master", unless you start a new game, then you get a new number... 
+could be for breeding over cable.
+For the parents masters it is 00, if the monster was bred, 
+for captured ones it is FF.
+Maybe a switch so the game knows what to show about parents.
+Can't test link cable stuff.
+
+
+Personality:
+Charge, Defense, Motivation, Mixed. 
+Yeah the secret Motivation state is still there, it decreases if 
+you give a direct command and increases if you choose Fight, Charge,
+Mixed or Defense.
+
+
+Parents family:
+there seem to be no information stored about the parents family, yet that is
+shown in the game.
+Ok, the monster type is unique, so the family can be derived from it, 
+but why store the family for every monster then?
+
+
+Item:
+The codes are not identical with those used to hack items in the inventory.
+I didn't care to try them all.
+
+
+Btw:
+There is no such thing as "physical resistance", except DEF.
+There is no such thing as "crit chance".
+
+
+
+Legal:
+Dragon Warrior Monsters 2 Copyright © 2001 Enix Inc. All Rights Reserved.
+
+Disclaimer:
+I'm just some guy interested in the mechanics of this game. I decided to share
+my findings with you, if you want to redistribute this file, you are obligated
+to jump on one foot, hold your nose and offer your soul to DarkDream, 
+God of the Demonlords. Failing to do so may or may not result in terrible
+nightmares.

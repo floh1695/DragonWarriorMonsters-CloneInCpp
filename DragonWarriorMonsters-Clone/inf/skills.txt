@@ -1,0 +1,2458 @@
+                       DRAGON WARRIOR MONSTERS 2 - COBI
+                                  SKILLS DATA
+                                GameBoy Version
+                                (c) Jimeous  2001
+                            Dated:  14 October 2001
+                                 Version 0.04
+                             jimeous@graffiti.net
+
+          ==========================================================
+             Updates found at: GameFAQs    http://www.gameFAQs.com
+                             : DWM2 United http://www.dwm2.com
+          ==========================================================
+
+TABLE OF CONTENTS
+
+ A.0 DISCLAIMER
+ A.1 UPDATES
+
+ 1.0 INTRODUCTION
+     1.1 Monsters Natural Skills
+     1.2 Monsters Inheritted Skills
+     1.3 Breeding VS Learning Skills
+
+ 2.0 SKILL INFORMATION
+     2.1 Skill STAT Requirements
+     2.2 Upgradable Skills
+     2.3 Combined Skills
+     2.4 Battle Combined Skills
+
+ 3.0 SKILL TABLE
+
+==============================================================================
+                                A.0 DISCLAIMER
+==============================================================================
+You may use this FAQ as long as it is display as is seen at GameFAQs or DWM2
+United. While it is common courtesy to ask my permission, as long as you
+aren't using this FAQ to generate income, you may use it.
+
+Do not ask me to send you updates as I can't be bothered :P Get them instead
+from GameFAQs http://www.gamefaqs.com/ or DWM2 http://www.dwm2.com/
+
+==============================================================================
+                                 A.1 UPDATES
+==============================================================================
+13 October 2001
+   Version 0.01 - Version 0.03 Draft Versions of FAQs
+14 October 2001
+   Version 0.04 - Released Version of FAQ
+
+=============================================================================
+                               1.0 INTRODUCTION
+=============================================================================
+The greatest aspect of this game, is that you can breed monsters that can
+have various skills. A monster can learn up to 8 Skills, its deciding which
+to keep that seperates peoples Team make-up.
+
+In DWM 2 for both versions it becomes increasingly important that you begin
+breeding. The INT stat has dramatically increased in many skills
+
+
+===========================
+1.1 MONSTERS NATURAL SKILLS
+===========================
+Every monster gets 3 skills, just for being that monster. These are special
+skills that they can pass down to thier children. In fact they don't even
+have to learn those skills themselves, yet they can still pass it to thier
+next of kin. Its the advantage they get for being that monster. Natural
+skills DO NOT need to be learnt by a monster in order for it to pass down
+to its child.
+
+==============================
+1.2 MONSTERS INHERITTED SKILLS
+==============================
+Any skill that is not one of the monsters Natural skills, is called an
+inheritted skill. These skills they recieved from thier parents, either
+because it was one of the parents Natural skills or the parent kept the
+skill, knowing it wanted to pass it on to the child. Inheritted skills
+MUST be KEPT if you want to pass it down to the monsters' child
+
+===============================
+1.3 BREEDING VS LEARNING SKILLS
+===============================
+As soon as child has been hatched from an egg, it will be capable of learning
+skills. What is available depends on what its parents skills were and what
+the monster is. It may keep any 8 skills that becomes available
+From its birth a monster has available skills to learn from
+[a] Its own 3 Natural skills
+[b] The Natural skills of its parents [thats 6 skills, 3 from each parent]
+[c] Any inheritted skills from its parents that they've KEPT
+A child may further get to learn a new skill, if it keeps any that can be
+combined.
+
+
+==============================================================================
+                            2.0 SKILL INFORMATION
+==============================================================================
+Apart from how a monster gets a skill, the requirement of meeting STATS is
+a very important rule in Skill learning. Some skills get better, while
+keeping a group of skills will benefit in a new one being learnt
+
+===========================
+2.1 SKILL STAT REQUIREMENTS
+===========================
+The level listed in the tables in this page, represent the earliest and ideal
+time where a skill can be learnt. It is not uncommon for monsters not to
+learn a skill at a level because its STATS have also not reached the required
+levels. EVERY stat must be fulfilled or better for a monster to learn a
+skill. This presents problems with some monsters as thier growth rate in some
+areas is slow, and they don't learn the skill until later levels.
+
+=====================
+2.2 UPGRADABLE SKILLS
+=====================
+Some skills have the ability to "upgrade" meaning they will get better
+results, in turn causing more damage or healing more monsters. These are
+upgradable skills. the lowest form of an upgradable skill is a BASE skill.
+Base skills will upgrade when the right stats have been fulfilled.
+
+===================
+2.3 COMBINED SKILLS
+===================
+On occassion, keeping a group of skills produces a result of being able to
+learn a new skill. This is called combining skills. Many people will breed
+certain monster just for the skills they can combine to get, this is
+sometimes referred to as Skill breeding
+
+==========================
+2.4 BATTLE COMBINED SKILLS
+==========================
+Because I have not yet had the time to test the combinations for the skills
+which combine during battle, I'll just make you aware that this is capable.
+Some examples which come to mind are
+
+2 GigaSlashes when done in consecutive turns has a chance to make a more
+powerful skill of GigaBreak.
+2 Sacrifices for Martyr
+BlazeMost and Blizzard make Blitzer
+
+There are a number of others, if I get time I'll look into them
+
+
+==============================================================================
+                                3.0 SKILL TABLE
+==============================================================================
+The tables listed below should be pretty self explanantory.
+
+ ROW 1 = Name, Cost of MPs to Cast, Description
+ ROW 2 = Skill Requirements Title
+ ROW 3 = Lowest Stats needed to get skill
+ ROW 4 = Natural Skill of Listed Monsters Title
+ ROW 5 = The list of monsters which get the skill naturally
+
+                                _____________
+                                 --|| A ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| AHHH       |   1 | Soft plushy and very pleasant.                         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |   0| ATK |  60| DEF |   0| AGL |  60| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MimeSlime, Lipsy                                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ANTIDOTE   |   2 | Cures one monster of poison.                           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  5 | HPs |   0| MPs |  21| ATK |   0| DEF |   0| AGL |   0| INT |  47|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Dracky, FloraMan, Pixy, WhaleMage                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| AQUACUT    |   3 | Inflicts severe damage on the water family.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  68| MPs |   0| ATK |  72| DEF |   0| AGL |  62| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| LizardMan, Garudian, EvilArmor, CaptDead, DeadNoble                       |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| AQUAWALL   |   5 | Creates a barrier that blocks an attack.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs | 100| MPs |  94| ATK |   0| DEF |  84| AGL |   0| INT | 202|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Bounce, Tidalwave                                         |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| AquaHawk, RayGigas, RogueWave                                             |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| B ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| BANG       |   5 | Small explosions strike enemies [all}                  |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  4 | HPs |   0| MPs |  13| ATK |   0| DEF |   0| AGL |   0| INT |  47|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Boom, Explodet                                            |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Metabble, Coatol, Gorago, ArcDemon, GoatHorn, Akubar, Titanis, BoneSlave, |
+| Balzak, Hargon, Baramos, Mirudraas, Orgodemir, Darck                      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BARRIER    |   3 | Reduces damage from breath attacks [all}               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 18 | HPs |   0| MPs |  76| ATK |   0| DEF |   0| AGL |   0| INT | 126|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| KingSlime, MistyWing, AmberWeed, WeedBug, CloudKing, Aquarella, Genosidoh |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BAZOOCALL  |  20 | Summons Bazoo to battle.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 35 | HPs |   0| MPs | 160| ATK |   0| DEF |   0| AGL |   0| INT | 550|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to TatsuCall                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BEASTCUT   |   3 | Inflicts severe damage on the beast family.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  62| MPs |   0| ATK |  68| DEF |   0| AGL |  62| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SlimeNite, Florajay, GiantWorm, MadKnight, CancerMan                      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BEAT       |   4 | Instantly slays an enemy.                              |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 16 | HPs |   0| MPs |  58| ATK |   0| DEF |   0| AGL |   0| INT | 137|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Defeat                                                    |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Metaly, Blizzardy, Devipine, Gophecada, Skulpent, Mudron, PomPomBom,      |
+| Niterich, EvilPot, Mimic, DarkMate                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BEDRAGON   |   9 | Transforms the user into a ferocious dragon.           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 23 | HPs |   0| MPs |  72| ATK |   0| DEF |   0| AGL |   0| INT | 162|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| DrakSlime, Crestpent, DracoLord                                           |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BERSERKER  |   1 | A powerful attack that leaves the user vulnerable.     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |  98| MPs |   0| ATK |  84| DEF |  84| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Gasgon, Spikerous, Orligon, Almiraj, Trumpeter, Titanis, Aquadon          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BIATTACK   |   3 | A physical attack that strikes twice in succession.    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 19 | HPs |  98| MPs |   0| ATK |  88| DEF |   0| AGL | 112| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | QuadHits                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Vampirus, Orochi, Grizzly, KingLeo, Rosevine, Skularach, Jamirus,         |
+| BoneSlave, Skeletor, Roboster, Clawster, HoodSquid, Octogon, Pizzaro,     |
+| Esterk                                                                    |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BIGBANG    |  30 | Creates an enormous explosion [all}                    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 36 | HPs | 196| MPs | 196| ATK |   0| DEF |   0| AGL |   0| INT | 612|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Explodet, WhiteFire, WhiteAir                             |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| GoldSlime, Divinegon, GoldGolem, Zoma, PsychoPiz, DeathMore1, DeathMore3  |
+| Kagebou                                                                   |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BIGTRIP    |   3 | Sweeps the legs out from under all enemies.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  66| MPs |   0| ATK |  63| DEF |   0| AGL |  77| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to LegSweep                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BIRDBLOW   |   3 | Inflicts severe damage on the bird family.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  62| MPs |   0| ATK |  68| DEF |   0| AGL |  72| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MadGopher, Orc, Durran, WindMerge, Skeletor                               |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BLADED     |   3 | Protects the user and enables retaliation.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |  98| MPs |   0| ATK |  84| DEF |  84| AGL |  84| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | TwinSlash, StrongD                                        |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SlimeBorg, Swordgon, Rosevine, Bubblemon, Niterich, SeaHorse              |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BLAZE      |   2 | Attacks an enemy with a fireball.                      |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  1 | HPs |   0| MPs |   7| ATK |   0| DEF |   0| AGL |   0| INT |  36|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | BlazeMore, BlazeMost                                      |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| BoxSlime, Metaly, ArrowDog, CatMage, FireWeed, Demonite, 1EyeClown,       |
+| GateGuard, EvilWell, Jamirus, FoxFire, Servant, MadCandle, LavaMan, Mimic |
+| Mirudraas                                                                 |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BLAZEAIR   |   4 | Inflicts damage with a blast of fire [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |  70| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Scorching, WhiteFire                                      |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Blaze                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BLAZEMORE  |   4 | Attacks an enemy with a large fireball.                |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 13 | HPs |   0| MPs |  46| ATK |   0| DEF |   0| AGL |   0| INT | 116|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | BlazeMost                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Blaze                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BLAZEMOST  |  10 | A towering pillar of fire roasts an enemy.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 28 | HPs |   0| MPs | 112| ATK |   0| DEF |   0| AGL |   0| INT | 263|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Blaze                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BLIZZARD   |  12 | A wicked blizzard howls through enemies [all}          |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 25 | HPs |   0| MPs |  88| ATK |   0| DEF |   0| AGL |   0| INT | 198|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Icebolt                                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BOLT       |   5 |  Lightning strikes enemies [all}                       |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  6 | HPs |   0| MPs |  20| ATK |   0| DEF |   0| AGL |   0| INT |  63|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Zap, Thordain                                             |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MetalKing, FooHero, WhiteKing, Balzak, Angleron, Poseidon, LordDraco,     |
+| Mirudraas, Darkdrium                                                      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BOLTSLASH  |   3 | A sword attack made stronger by lightning.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 11 | HPs |  77| MPs |  34| ATK |  66| DEF |   0| AGL |   0| INT |  76|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Lightning, ChargeUp                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Coatol, LandOwl, ZapBird, HornBeet, ArcDemon, EvilArmor, RotRaven,        |
+| BoneSlave, Roboster2, FishRider, CancerMan                                |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BOOM       |   8 | A succession of explosions strikes enemies [all}       |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |   0| MPs |  50| ATK |   0| DEF |   0| AGL |   0| INT | 123|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Explodet                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Bang                                                             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BOUNCE     |   4 | Bounces back all enemy spells.                         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs |   0| MPs |  84| ATK |   0| DEF |   0| AGL |   0| INT | 141|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to MagicBack                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| BUGBLOW    |   3 | Inflicts severe damage on the bug family.              |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  68| MPs |   0| ATK |  72| DEF |   0| AGL |  62| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Picky, StubBird, WalrusMan                                                |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| C ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| CALLHELP   |   4 | Summons friends who attack in droves.                  |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 17 | HPs |  84| MPs |  42| ATK |   0| DEF |   0| AGL |  68| INT |  98|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | YellHelp                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SpotSlime, Snaily, FangSlime, MiniDrak, Vampirus, ArrowDog, Snapper,      |
+| Gophecada, Butterfly, ArmyAnt, GoHopper, ArmyCrab, Mummy, CaptDead, Goopi |
+| HoodSquid, Pumpoise                                                       |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| CHANCE     |  20 | There is no telling what may happen.                   |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 40 | HPs |   0| MPs | 224| ATK |   0| DEF |   0| AGL |   0| INT | 420|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| GoldSlime, WonderEgg, Watabou, WhiteKing, Kagebou                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| CHARGEUP   |   0 | Inflicts severe damage on the next turn.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |  98| MPs |   0| ATK |   0| DEF |  84| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| PearlGel, FangSlime, Almiraj, Skullroo, Beavern, HammerMan, BullBird,     |
+| Oniono, GoHopper, EvilWell, Gigantes, Golem, ProtoMech, Darck             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| CLEANCUT   |   3 | Inflicts severe damage on the material family.         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  68| MPs |   0| ATK |  72| DEF |   0| AGL |  62| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SpotKing, Swordgon, EvilSeed, DarkEye, GateGuard                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| COVER      |   2 | Takes all attacks meant for another monster.           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  5 | HPs |  35| MPs |   0| ATK |   0| DEF |  30| AGL |  30| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Guardian                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| IronTurt, BossTroll, Grendal, LavaMan, StoneMan, AxeShark                 |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| CURSE      |   3 | Lays a curse on all enemies.                           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 15 | HPs |   0| MPs |  65| ATK |   0| DEF |   0| AGL |  82| INT | 148|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| KingCobra, DuckKite, KiteHawk, FaceTree, HerbMan, Butterfly, Reaper       |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| CURSEOFF   |   2 | Lifts a curse [all}                                    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  7 | HPs |   0| MPs |  27| ATK |   0| DEF |   0| AGL |   0| INT |  44|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| AquaHawk, FloraMan, TreeBoy, DeadNite, WindMerge                          |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| D ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| DANCESHUT  |   6 | Prevents all enemies from dancing.                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 16 | HPs | 100| MPs |   0| ATK |   0| DEF |   0| AGL | 120| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| HerbMan                                                                   |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| DECHAOS    |   2 | Clears confusion in all party monsters.                |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  6 | HPs |   0| MPs |  24| ATK |   0| DEF |   0| AGL |   0| INT |  47|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| FireWeed, DeadNite, EvilWand, CoilBird                                    |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| DEFEAT     |   7 | Instantly slays enemies [all}                          |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 24 | HPs |   0| MPs |  80| ATK |   0| DEF |   0| AGL |   0| INT | 177|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Beat                                                             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| DEFENSE    |   4 | Lowers DEF of all enemy monsters.                      |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  8 | HPs |   0| MPs |  36| ATK |   0| DEF |   0| AGL |   0| INT |  58|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Sap                                                              |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| DEMAGIC    |   7 | Lifts the effects of all spells on enemies [all}       |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs |   0| MPs | 100| ATK |   0| DEF |   0| AGL |   0| INT | 252|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Surge, UltraDown                                          |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Warubou, Zoma, PsychoPiz, Mirudraas2, DeathMore3, Orgodemir2              |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| DEVILCUT   |   3 | Inflicts severe damage on the devil family.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  64| MPs |   0| ATK |  58| DEF |   0| AGL |  62| INT |  87|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Rayburn, Serpentia, HornBeet, Sickler, Reaper, SabreMan                   |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| DIAGOCALL  |  20 | Summons Diago to battle.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 25 | HPs |   0| MPs | 100| ATK |   0| DEF |   0| AGL |   0| INT | 250|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | SamsiCall, BazooCall                                      |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to TatsuCall                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| DODGE      |   4 | Deflects any physical attack to another monster.       |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 18 | HPs | 126| MPs |   0| ATK | 108| DEF | 108| AGL | 108| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| DragonKid, BigRoost, GiantSlug, Skulpent, Goopi, FishRider, Poseidon, Pumpoise
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| DRAKSLASH  |   3 | Inflicts severe damage on the dragon family.           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  62| MPs |   0| ATK |  72| DEF |   0| AGL |  62| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| ManEater, Grendal, Durran, Clawster, Octoraid                             |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| E ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| EAGLEEYE   |   0 | Determines the presence of items nearby.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  40| ATK |   0| DEF |   0| AGL |   0| INT |  62|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Skullroo, Mommonja, MadRaven, CragDevil, Mimic                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| EERIELITE  |   2 | Weakens all enemies to magic spells.                   |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |   0| MPs |  65| ATK |   0| DEF |   0| AGL |  84| INT | 152|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Curse, Radiant                                            |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Babble, Gorago, MistyWing, GhosTree, Hork, Reaper, DarkMate               |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ERRAND     |   2 | Makes the monster run an errand for 100G.              |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  40| ATK |   0| DEF |   0| AGL |   0| INT |  62|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SnakeBat, Unicorn, WildApe, Emyu                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| EVILSLASH  |   3 | A powerful but wildly aimed sword attack.              |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 15 | HPs | 106| MPs |   0| ATK |  90| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| LizardMan, MadDragon, Coatol, BattleRex, HammerMan, Armorpion, Gigantes,  |
+| Mummy, RogueNite, WalrusMan, Orgodemir                                    |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| EXPLODET   |  15 | Huge explosions blast enemies [all}                    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 29 | HPs |   0| MPs | 120| ATK |   0| DEF |   0| AGL |   0| INT | 285|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Bang                                                             |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| F ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| FAREWELL   | ALL | Revives dead mates in exchange for own life [all}      |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 32 | HPs |   0| MPs | 188| ATK |   0| DEF |   0| AGL |   0| INT | 317|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Sacrifice,  Revive                                        |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| GranSlime, Gasgon, WingTree, Belzebub, Digster, BombCrag                  |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| FIREAIR    |   2 | Inflicts damage with a breath of fire [all}            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  3 | HPs |  21| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | BlazeAir, Scorching, WhiteFire                            |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| DrakSlime, DragonKid, Dragon, LizardFly, Orochi, BattleRex, SkyDragon,    |
+| GigaDraco, Phoenix, Shantak, StagBug, Demonite, MetalDrak, Gismo, LavaMan |
+| Digong, DracoLord2, Sidoh, AsuraZoma, Pizzaro, Mirudraas2, Mudou,         |
+| DeathMore2, Darkdrium, Dimensaur                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| FIREBAL    |   4 | Attacks enemies with a blast of fire [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  3 | HPs |   0| MPs |  11| ATK |   0| DEF |   0| AGL |   0| INT |  42|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Firebane, FireBolt                                        |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Slime, Metabble, Pteranod, LizardFly, Goategon, KingLeo, MadCondor,       |
+| FloraMan, Eyeder, Belzebub, AgDevil, EvilBeast, 1EyeClown, Gremlin        |
+| FoxFire, JewelBag, RayGigas, Anemon, Gamanian, DracoLord, Hargon, Darck   |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| FIREBANE   |   6 | Attacks enemies with a wall of fire [all}              |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  34| ATK |   0| DEF |   0| AGL |   0| INT |  94|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | FireBolt                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Firebal                                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| FIREBOLT   |  10 | A huge wall of fire incinerates enemies [all}          |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 26 | HPs |   0| MPs |  96| ATK |   0| DEF |   0| AGL |   0| INT | 220|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Firebal                                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| FIRESLASH  |   3 | A fiery sword attack.                                  |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 11 | HPs |  77| MPs |  34| ATK |  66| DEF |   0| AGL |   0| INT |  98|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Blazemore, ChargeUp                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Dragon, Orochi, SkulRider, Grendal, Centasaur, EvilArmor                  |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| FOCUS      |   0 | Enables two moves in the next turn.                    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 18 | HPs | 126| MPs |   0| ATK |   0| DEF | 108| AGL | 108| INT | 195|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | ChargeUp, SuckAir, Meditate                               |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| GranSlime, HerbMan, Akubar, Servant, Poseidon, LordDraco, AsuraZoma,      |
+| DeathMore3, Orgodemir                                                     |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| FRIGIDAIR  |   2 | Inflicts damage with a breath of ice [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  3 | HPs |  21| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | IceAir, IceStorm, WhiteAir, IceStorm                      |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| GreatDrak, Divinegon, KingLeo, BigEye, Wyvern, Blizzardy, Demonite,       |
+| EvilBeast, Akubar, Skullgon, Shadow, EvilWand, Gismo, IceMan, SeaHorse,   |
+| Sidoh, Zoma, PsychoPiz, Mudou, Darkdrium                                  |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| G ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| GEYSER     |   2 | Opens a geyser to send an enemy flying.                |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 22 | HPs | 140| MPs | 120| ATK | 120| DEF |   0| AGL | 120| INT | 288|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | RockThrow, HighJump                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Beavern, Aquarella, Octoreach, SeaHorse, WhaleMage                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| GIGASLASH  |  20 | The ultimate sword attack.                             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 33 | HPs | 231| MPs | 164| ATK | 198| DEF |   0| AGL | 198| INT | 608|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | FireSlash, VacuSlash, BoltSlash, IceSlash                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| LizardMan, BeastNite, FooHero, WarMantis, MadKnight, Roboster2, Octoraid, |
+| AsuraZoma, Esterk                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| GUARDIAN   |   4 | Takes all attacks meant for party monsters.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  84| MPs |   0| ATK |   0| DEF |  72| AGL |  72| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Cover                                                            |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| H ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| HEAL       |   2 | Restores HP by 30 - 40.                                |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  1 | HPs |   0| MPs |   7| ATK |   0| DEF |   0| AGL |   0| INT |  11|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | HealMore, HealAll                                         |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SlimeNite, Healer, Unicorn, Wyvern, MadGoose, FooHero, Eyeder, Gremlin,   |
+| LampGenie, DeadNite, RogueNite, Octokid                                   |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| HEALALL    |   7 | Fully restores HP.                                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 16 | HPs |   0| MPs |  82| ATK |   0| DEF |   0| AGL |   0| INT | 144|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Heal                                                             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| HEALMORE   |   5 | Restores HP by 75 - 90.                                |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  52| ATK |   0| DEF |   0| AGL |   0| INT |  87|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Heal                                                             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| HEALUS     |  18 | Restores HP by 90 - 120 [all}                          |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs |   0| MPs | 140| ATK |   0| DEF |   0| AGL |   0| INT | 216|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | HealUsAll                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Healer, MadCondor, Shantak, Lionex, DeadNoble, Lamia                      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| HEALUSALL  |  36 | Fully restores HP [all}                                |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 28 | HPs |   0| MPs | 196| ATK |   0| DEF |   0| AGL |   0| INT | 288|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to HealUs                                                           |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| HELLBLAST  |  25 | Strikes all enemies with huge lightning.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 34 | HPs | 184| MPs | 184| ATK |   0| DEF |   0| AGL |   0| INT | 538|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Thordain, Lightning                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MetalKing, ZapBird, Azurile, DarkMate, LordDraco, Sidoh, Baramos, Pizzaro |
+| DeathMore1, Dimensaur                                                     |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| HIGHJUMP   |   5 | The user leaps and attacks in the next turn.           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs |  75| MPs |   0| ATK |  70| DEF |   0| AGL |  48| INT |  80|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| RockSlime, WingSnake, MadRaven, CactiBall, Gulpple, SpikyBoy, Grakos      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| HUSTLE     |  12 | A dance that restores HP by 70 - 80 [all}              |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 18 | HPs | 114| MPs |   0| ATK |   0| DEF |   0| AGL | 130| INT | 173|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | HealAll, SideStep                                         |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SuperTen, Emyu, FunkyBird, TreeBoy, MudDoll, Octogon                      |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| I ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| ICEAIR     |   4 | Inflicts damage with a freezing breath [all}           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |  70| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | IceStorm, WhiteAir, IceStorm                              |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to FrigidAir                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ICEBOLT    |   3 | Small chunks of ice hail down on enemies [all}         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  5 | HPs |   0| MPs |  16| ATK |   0| DEF |   0| AGL |   0| INT |  54|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | SnowStorm, Blizzard                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Snaily, Metaly, WindBeast, Beavern, Yeti, BigEye, 1EyeClown, GoatHorn,    |
+| Servant, IceMan, MerTiger                                                 |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ICESLASH   |   3 | A sword attack made stronger by the power of ice.      |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 11 | HPs |  77| MPs |  34| ATK |  66| DEF |   0| AGL |   0| INT |  76|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | SnowStorm, ChargeUp                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| GreatDrak, Yeti, Blizzardy, TailEater, Bubblemon, Skullgon                |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ICESTORM   |   8 | Inflicts damage by exhaling a blizzard [all}           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs | 140| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | WhiteAir, IceStorm                                        |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to FrigidAir                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| IMITATE    |   4 | Imitates the enemy'S moves.                            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 21 | HPs | 147| MPs | 147| ATK | 126| DEF | 126| AGL | 126| INT | 227|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Transform, Focus                                          |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SpotSlime, SuperTen, Watabou, Copycat                                     |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| INCREASE   |   3 | Raises DEF of party monsters [all}                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  6 | HPs |   0| MPs |  27| ATK |   0| DEF |   0| AGL |   0| INT |  44|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Upper                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| INFERMORE  |   4 | Twisters tear through enemies [all}                    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  38| ATK |   0| DEF |   0| AGL |   0| INT | 101|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Infermost                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Infernos                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| INFERMOST  |   8 | A huge tornado roars through enemies [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 21 | HPs |   0| MPs | 104| ATK |   0| DEF |   0| AGL |   0| INT | 242|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Infernos                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| INFERNOS   |   2 | Razor sharp whirlwinds slash enemies [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  2 | HPs |   0| MPs |  10| ATK |   0| DEF |   0| AGL |   0| INT |  38|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Infermore, Infermost                                      |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Andreal, Vampirus, WindBeast, MadPecker, LandOwl, Garudian, CragDevil,    |
+| Sickler, Lionex, GoatHorn, WindMerge, WhiteKing, Facer, CloudKing         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| INFORMER   |   0 | Use to obtain information on monsters.                 |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  40| ATK |   0| DEF |   0| AGL |   0| INT |  62|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| GranSlime, MadGopher, MistyWing, NiteWhip                                 |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| IRONIZE    |   2 | Changes all party monsters into chunks of iron.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 15 | HPs |   0| MPs |  62| ATK |   0| DEF |   0| AGL |   0| INT |  87|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MetalKing, WonderEgg, Tortragon, WhipBird, EvilBeast, DarkCrab            |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| K ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| K.O.DANCE  |   6 | A dance that induces death in all enemies.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs | 140| MPs |  72| ATK |   0| DEF |   0| AGL | 120| INT | 216|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Curse, LureDance                                          |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| KingCobra, SuperTen, DanceVegi, Shadow, Lazamanus                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| KAMIKAZE   |   1 | Leaves the user and target on the verge of death.      |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 18 | HPs | 126| MPs |   0| ATK | 108| DEF | 108| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | ChargeUp, Ramming                                         |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Spikerous, HammerMan, ArmyAnt, RotRaven, RushFish                         |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| L ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| LEGSWEEP   |   1 | Sweeps the leg out from under one enemy.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  6 | HPs |  32| MPs |   0| ATK |  31| DEF |   0| AGL |  48| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | BigTrip                                                   |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Slabbit, Grizzly, MadCat, StagBug, SkulRider, Goopi                       |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| LIFEDANCE  | ALL | A sacrificial dance to revive dead friends.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 30 | HPs | 210| MPs |   0| ATK |   0| DEF |   0| AGL | 180| INT | 446|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Sacrifice, Hustle                                         |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| FunkyBird, Lazamanus, PomPomBom                                           |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| LIFESONG   |  20 | Revives all dead friends in the next turn.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 27 | HPs | 198| MPs |  94| ATK |   0| DEF |   0| AGL | 145| INT | 292|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Revive, WarCry                                            |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| HaloSlime, Florajay, Azurile, Facer, Orgodemir2                           |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| LIGHTNING  |   3 | Summons a lightning storm [all}                        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |  65| MPs |   0| ATK |  90| DEF |   0| AGL |  52| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SlimeBorg, Tortragon, ZapBird, Skularach, RotRaven, NiteWhip              |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| LOVERAIN   |  28 | Summons rain that restores HP.                         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 24 | HPs | 116| MPs |  96| ATK |   0| DEF |   0| AGL |  78| INT | 263|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Meditate, LifeSong                                        |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MimeSlime, BigEye, Brushead                                               |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| LUREDANCE  |   2 | A dance that makes all enemies want to join in.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |  84| MPs |   0| ATK |   0| DEF |   0| AGL |  98| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MadDragon, Mommonja, MadGoose, DanceVegi, GhosTree, Eggplaton, Puppetor,  |
+| Octokid, HoodSquid                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| LUSHLICKS  |   2 | Licks one enemy to stop it for one turn.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  7 | HPs |  55| MPs |   0| ATK |   0| DEF |   0| AGL |  67| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | SickLick                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SpotSlime, TropicGel, FairyDrak, Poisongon, SnakeBat, Tonguella, Antbear, |
+| Slurperon, GiantSlug, Lipsy, Hork, Gamanian                               |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| M ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| MAGICBACK  |   4 | Bounces back a spell once.                             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 16 | HPs |   0| MPs |  68| ATK |   0| DEF |   0| AGL |   0| INT | 112|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Bounce                                                    |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Tortragon, Gophecada, EyeBall, PutrePup, MadMirror                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MAGICWALL  |   3 | Raises protection against magic spells [all}           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 19 | HPs |   0| MPs |  80| ATK |   0| DEF |   0| AGL |   0| INT | 134|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| IronTurt, KiteHawk, AmberWeed, WeedBug, DarkCrab, Scallopa                |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MAPMAGIC   |   2 | Checks the surrounding area'S terrain.                 |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  40| ATK |   0| DEF |   0| AGL |   0| INT |  62|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| BeanMan, Eyeder, EvilWand                                                 |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MASSACRE   |   3 | Inflicts severe damage on one friend or foe.           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  84| MPs |   0| ATK |  72| DEF |   0| AGL |  72| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MadDragon, GigaDraco, GulpBeast, Gorago, Ogre, BossTroll, MadKnight,      |
+| MetalDrak, EvilPot, WalrusMan, DracoLord2                                 |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MEDITATE   |   8 | Meditates to restore HP by 500.                        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 26 | HPs | 182| MPs |   0| ATK |   0| DEF | 156| AGL |   0| INT | 281|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | StrongD, Guardian                                         |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Divinegon, Azurile, Golem, DracoLord                                      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MEGAMAGIC  | ALL | The ultimate attack spell.                             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 38 | HPs |   0| MPs | 210| ATK |   0| DEF |   0| AGL |   0| INT | 794|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Blazemost, Firebolt, Explodet, Infermost, Blizzard        |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Slime, RainHawk, Orgodemir2, Dimensaur                                    |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| METALCUT   |   3 | Inflicts damage on a high DEF enemy.                   |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  68| MPs |   0| ATK |  72| DEF |   0| AGL |  62| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| BattleRex, Antbear, Dumbira, ArmyCrab, Ogre, RogueNite, Roboster2         |
+| Clawster                                                                  |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MOUTHSHUT  |   6 | Prevents all enemies from using breath attacks.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 17 | HPs | 120| MPs |   0| ATK | 100| DEF |   0| AGL | 140| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SpotKing, Mommonja, ArrowDog, Toadstool, Pyuro, Spooky, RayGigas          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MPASS      |  20 | Gives 15MP to a party monster.                         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  1 | HPs |   0| MPs |  55| ATK |   0| DEF |   0| AGL |   0| INT |  11|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | MPassmore, MPassmost                                      |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| KingSlime, TropicGel, TreeBoy, Warubou, Eggplaton, Mudron, Octokid,       |
+| Octogon, Lamia                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MPASSMORE  |  40 | Gives 30MP to a party monster.                         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs | 120| ATK |   0| DEF |   0| AGL |   0| INT |  87|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | MPassmost                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to MPass                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MPASSMOST  | 100 | Gives 80MP to a party monster.                         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 16 | HPs |   0| MPs |  82| ATK |   0| DEF |   0| AGL |   0| INT | 144|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to MPass                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| MULTICUT   |  20 | A crosscutting sword attack [all}                      |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 28 | HPs | 154| MPs | 140| ATK | 168| DEF |   0| AGL | 168| INT | 572|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Vacuum, ZombieCut                                         |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SkyDragon, MadCondor, Balzak, Genosidoh                                   |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| N ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| NAPATTACK  |   2 | A physical attack that may put the target to sleep.    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  7 | HPs |  49| MPs |   0| ATK |  42| DEF |   0| AGL |   0| INT |  76|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SpotKing, Tonguella, Gulpple, Toadstool, ArmyAnt, Gamanian                |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| NUMBOFF    |   2 | Cures paralysis and sleep [all}                        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  8 | HPs |   0| MPs |  30| ATK |   0| DEF |   0| AGL |   0| INT |  47|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Snaily, MadPlant, CoilBird                                                |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| O ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| ODDDANCE   |   0 | A dance that reduces an enemy'S MP.                    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |  54| MPs |  27| ATK |   0| DEF |   0| AGL |  63| INT |  89|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | RobDance                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| CatFly, CactiBall, Slurperon, FaceTree, Eggplaton, GiantWorm, Copycat,    |
+| Puppetor, Brushead, MudDoll, Octoreach, Starfish                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| OUTSIDE    |   2 | Instantly warps the party out from caves and towers.   |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  40| ATK |   0| DEF |   0| AGL |   0| INT |  62|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| EyeBall, Spooky, FoxFire, MadMirror, EvilPot                              |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| P ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| PALSYAIR   |   4 | A breath that paralyzes all enemies.                   |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 16 | HPs | 112| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT | 173|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | SleepAir, PoisonAir                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Chamelgon, Saccer, FireWeed, MultiEyes, DarkEye                           |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| PANICALL   |   5 | Confuses all enemies.                                  |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |   0| MPs |  56| ATK |   0| DEF |   0| AGL |   0| INT |  89|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MimeSlime, Chamelgon, DuckKite, CragDevil, JewelBag, Voodoll, PutreFish   |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| PANIDANCE  |   4 | A dance that confuses all enemies.                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 13 | HPs |  74| MPs |   0| ATK |   0| DEF |   0| AGL |  78| INT | 141|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Skullroo, FunkyBird, Exaucers, Octoreach                                  |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| PARALYZE   |   3 | A physical attack that may paralyze the target.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  9 | HPs |  63| MPs |   0| ATK |  54| DEF |   0| AGL |   0| INT |  98|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | PoisonHit, NapAttack                                      |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| TreeSlime, Chamelgon, CactiBall, EvilSeed, GiantMoth, MadHornet, Mummy,   |
+| SabreMan, Anemon                                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| PHEROMONE  |   0 | Attracts enemy monsters of the opposite gender.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  4 | HPs |   0| MPs |  28| ATK |   0| DEF |   0| AGL |   0| INT |  44|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Warubou, Lipsy, Puppetor                                                  |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| POISONAIR  |   4 | A breath that badly poisons all enemies.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |  98| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT | 152|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to PoisonGas                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| POISONGAS  |   3 | A breath that poisons all enemies.                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  9 | HPs |  63| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |  98|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | PoisonAir                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Poisongon, Andreal, WingSnake, Devipine, TailEater, Skularach, Hork,      |
+| Inverzon, Moray, Anemon, RogueWave, Digong, Mudou                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| POISONHIT  |   2 | A physical attack that may poison the target.          |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  5 | HPs |  35| MPs |   0| ATK |  50| DEF |   0| AGL |   0| INT |  90|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Babble, Poisongon, Rayburn, KingCobra, Crestpent, Catapila, MadHornet,    |
+| Skulpent, Starfish                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| PSYCHEUP   |   3 | Inflicts severe damage at the end of the turn.         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  74| MPs |   0| ATK |  82| DEF |  68| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Saccer, DarkHorn, ManEater, Ogre, MadCandle, Golem, Moray, KingSquid      |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| Q ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| QUADHITS   |   6 | A physical attack that strikes four times.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 24 | HPs | 124| MPs |   0| ATK | 112| DEF |   0| AGL | 136| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to BiAttack                                                         |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| R ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| RADIANT    |   2 | A blast of light blinds all the enemies.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |   0| MPs |  42| ATK |   0| DEF |   0| AGL |  72| INT | 130|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| PearlGel, Slime, EvilSeed, TailEater, GiantMoth, DarkEye, Spooky,         |
+| MadSpirit, Scallopa                                                       |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| RAINSLASH  |   5 | A sword attack that hits all enemies.                  |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 15 | HPs |  92| MPs |   0| ATK |  90| DEF |   0| AGL |  96| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | SquallHit, BiAttack                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SlimeBorg, Swordgon, Serpentia, BeastNite, Dumbira, StubBird, Snapper,    |
+| Armorpion, SkulRider, Centasaur, Roboster, FishRider, CancerMan, AxeShark |
+| KingSquid, Esterk                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| RAMMING    |   1 | A fullbody tackle that also hurts the user.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  70| MPs |   0| ATK |   0| DEF |   0| AGL |  70| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| BoxSlime, RockSlime, Drygon, MiniDrak, PillowRat, GulpBeast, BullBird,    |
+| Belzebub, BossTroll, ProtoMech, Petiteel, PutreFish, Digong, DeathMore2   |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| REVIVE     |  20 | Revives a dead monster.                                |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 27 | HPs |   0| MPs | 174| ATK |   0| DEF |   0| AGL |   0| INT | 274|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Vivify                                                           |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ROBDANCE   |   0 | A dance that steals an enemy'S MP.                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  68| MPs |  39| ATK |   0| DEF |   0| AGL |  85| INT | 110|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to OddDance                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ROBMAGIC   |   0 | Steals MP from an enemy.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  7 | HPs |   0| MPs |  32| ATK |   0| DEF |   0| AGL |   0| INT |  51|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Dracky, Oniono, BeanMan, GhosTree, WeedBug, GoHopper, SabreMan, Aquadon   |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ROCKTHROW  |   5 | Hurls giant boulders at enemies [all}                  |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 16 | HPs | 124| MPs |   0| ATK | 102| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SnakeBat, Spikerous, GigaDraco, HornBeet, BombCrag, Baramos               |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| S ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| SACRIFICE  |   1 | The user explodes to inflict damage on all enemies.    |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 28 | HPs |   0| MPs |  40| ATK |   0| DEF | 140| AGL |   0| INT |  78|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Metabble, WonderEgg, Gasgon, AgDevil, Facer, SpikyBoy, BombCrag           |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SAMSICALL  |  20 | Summons Samsi to battle.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 30 | HPs |   0| MPs | 130| ATK |   0| DEF |   0| AGL |   0| INT | 400|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | BazooCall                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to TatsuCall                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SANDSTORM  |   2 | Obscures the visibility of all enemies.                |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |  70| MPs |   0| ATK |   0| DEF |   0| AGL |  70| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MiniDrak, Trumpeter, BigRoost, MetalDrak, Brushead, RushFish, Grakos      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SAP        |   3 | Lowers DEF of one enemy.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  4 | HPs |   0| MPs |  18| ATK |   0| DEF |   0| AGL |   0| INT |  27|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Defense                                                   |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| TreeSlime, Drygon, LizardFly, Picky, MadPecker, MadPlant, MultiEyes,      |
+| MedusaEye, Orc, PutrePup, Skeletor, Voodoll, Merman, AxeShark             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SCORCHING  |   8 | Inflicts damage with a huge blast of fire [all}        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs | 140| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | WhiteFire                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to FireAir                                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SEALPRAY   |  15 | Seals a skill used by the enemy.                       |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 35 | HPs |  87| MPs | 160| ATK |   0| DEF |   0| AGL |   0| INT | 794|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | StopSpell, DanceShut, MouthShut                           |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| HaloSlime, Pixy                                                           |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SHEARS     |   3 | Inflicts severe damage on the plant family.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  68| MPs |   0| ATK |  62| DEF |   0| AGL |  72| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| BullBird, Droll, WarMantis, MedusaEye                                     |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SICKLICK   |   4 | Licks one enemy to reduce its DEF.                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 13 | HPs |  81| MPs |   0| ATK |   0| DEF |   0| AGL |  94| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to LushLicks                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SIDESTEP   |   1 | A quickfooted skill for dodging attacks.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  9 | HPs |  63| MPs |   0| ATK |   0| DEF |   0| AGL |  54| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Slabbit, PillowRat, WildApe, LandOwl, DanceVegi, Inverzon, MudDoll        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SLEEP      |   3 | Makes a single enemy sleep.                            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  4 | HPs |   0| MPs |  24| ATK |   0| DEF |   0| AGL |   0| INT |  29|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | SleepAll                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| HaloSlime, Almiraj, BeastNite, DarkHorn, Wyvern, DuckKite, Dracky,        |
+| Slurperon, Stubsuck, StagBug, LampGenie, Moray, MerTiger                  |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SLEEPAIR   |   3 | A breath that induces sleep in all enemies.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |  70| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT | 108|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| TreeSlime, TropicGel, DragonKid, FairyDrak, Tonguella, NoctoKing,         |
+| Goategon, Gulpple, Toadstool, Oniono, Devipine, ManEater, Egdracil,       |
+| AgDevil, MadSpirit, Merman, Angleron                                      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SLEEPALL   |   5 | Makes all enemies sleep.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 11 | HPs |   0| MPs |  52| ATK |   0| DEF |   0| AGL |   0| INT |  83|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Sleep                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SLIMEBLOW  |   3 | Inflicts severe damage on the slime family.            |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  62| MPs |   0| ATK |  68| DEF |   0| AGL |  72| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Serpentia, FairyRat, Gigantes, SpikyBoy, ProtoMech                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SLOW       |   3 | Lowers AGL of one enemy.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  3 | HPs |   0| MPs |  16| ATK |   0| DEF |   0| AGL |   0| INT |  26|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | SlowAll                                                   |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| CatFly, PillowRat, FairyRat, Goategon, MadPlant, Droll, PutrePup          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SLOWALL    |   4 | Lowers AGL of all enemy monsters.                      |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  7 | HPs |   0| MPs |  32| ATK |   0| DEF |   0| AGL |   0| INT |  51|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Slow                                                             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SNOWSTORM  |   5 | Enemies are flash frozen [all}                         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |   0| MPs |  42| ATK |   0| DEF |   0| AGL |   0| INT | 108|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Blizzard                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to IceBolt                                                          |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SPEED      |   2 | Raises AGL of one monster.                             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  1 | HPs |   0| MPs |  10| ATK |   0| DEF |   0| AGL |   0| INT |  15|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | SpeedUp                                                   |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Florajay, Pyuro, CurseLamp, Petiteel                                      |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SPEEDUP    |   3 | Raises AGL of party monsters [all}                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  5 | HPs |   0| MPs |  24| ATK |   0| DEF |   0| AGL |   0| INT |  36|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Speed                                                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SQUALLHIT  |   2 | A physical attack that hits first.                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  72| MPs |   0| ATK |  68| DEF |   0| AGL |  82| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | SpeedUp, ChargeUp                                         |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| WingSlime, WingSnake, Antbear, Grizzly, MadCat, AquaHawk, Phoenix,        |
+| Sickler, ChopClown, CaptDead, Roboster, Aquarella, Octoraid               |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| STEPGUARD  |   2 | Protects the party from injurious terrain.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  40| ATK |   0| DEF |   0| AGL |   0| INT |  62|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| WingTree, Stubsuck, GiantWorm, Droll, DarkCrab                            |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| STOPSPELL  |   3 | Prevents spell casting by all enemies.                 |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  9 | HPs |   0| MPs |  44| ATK |   0| DEF |   0| AGL |   0| INT |  69|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Crestpent, CatFly, DarkHorn, FaceTree, Snapper, Gremlin, Centasaur,       |
+| JewelBag                                                                  |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| STORMWIND  |  10 | Bounces back all breath attacks to all enemies.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 19 | HPs | 140| MPs |   0| ATK |   0| DEF | 126| AGL | 140| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to TailWind                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| STRONGD    |   3 | Strongly protects the user against all attacks.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |  98| MPs |   0| ATK |   0| DEF |  84| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| RockSlime, Orligon, IronTurt, RainHawk, Digster, IceMan, StoneMan         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SUCKAIR    |   0 | Holds in a breath to inflict severe damage next turn   |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 17 | HPs | 119| MPs |   0| ATK |   0| DEF | 102| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| DrakSlime, SkyDragon, Gismo, Pumpoise, Mirudraas2                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SUCKALL    |   2 | Inhales all breath attacks meant for the party.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 13 | HPs |  91| MPs |   0| ATK |   0| DEF |  78| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Dragon, GreatDrak, Shantak, Egdracil, Digster, CoilBird, StoneMan         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SURGE      |   7 | Eliminates all status problems among friends.          |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 23 | HPs |   0| MPs | 130| ATK |   0| DEF |   0| AGL |   0| INT | 306|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Antidote, DeChaos, NumbOff, CurseOff                      |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| GoldSlime, RainHawk, GoldGolem, CloudKing, DracoLord2                     |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| SURROUND   |   3 | Surrounds all enemies in a mirage.                     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 10 | HPs |   0| MPs |  47| ATK |   0| DEF |   0| AGL |   0| INT |  74|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Babble, FairyDrak, Andreal, NoctoKing, FairyRat, CatMage, Picky,          |
+| Butterfly, MedusaEye, Inverzon, Voodoll, Angleron                         |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| T ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| TAILWIND   |   6 | Bounces back a breath attack to an enemy.              |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 11 | HPs |  75| MPs |   0| ATK |   0| DEF |  84| AGL |  70| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | StormWind                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| WingSlime, Pteranod, MadRaven, KiteHawk, Phoenix, MadHornet, Jamirus,     |
+| LampGenie                                                                 |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| TAKEMAGIC  |   2 | Absorbs the MP of a spell cast against the user.       |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 13 | HPs |   0| MPs |  58| ATK |   0| DEF |   0| AGL |   0| INT |  94|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Lazamanus, Exaucers                                                       |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| TATSUCALL  |  20 | Summons Tatsu to battle.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs |   0| MPs |  70| ATK |   0| DEF |   0| AGL |   0| INT | 100|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | DiagoCall, SamsiCall, BazooCall                           |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| WhipBird, DeadNoble, GoldGolem, Hargon, DeathMore1, Kagebou               |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| THICKFOG   |   8 | Creates a fog that prevents the use of all spells.     |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 22 | HPs |   0| MPs | 120| ATK |   0| DEF |   0| AGL |   0| INT | 288|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| NoctoKing, WhipBird, Catapila, GateGuard, Shadow, MadSpirit, PomPomBom,   |
+| Niterich                                                                  |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| THORDAIN   |  15 | Huge shards of lightning rip enemies [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 30 | HPs |   0| MPs | 128| ATK |   0| DEF |   0| AGL |   0| INT | 306|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Bolt                                                             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| TIDALWAVE  |  15 | Summons a towering wall of water [all}                 |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 19 | HPs | 112| MPs |   0| ATK | 114| DEF |   0| AGL | 132| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to WaterShot                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| TRANSFORM  |   5 | Transforms the user into a chosen enemy.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 21 | HPs |   0| MPs |  92| ATK |   0| DEF |   0| AGL |   0| INT | 159|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| CatMage, Copycat, MadMirror                                               |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| TWINHITS   |   6 | Doubles the ATK of one monster.                        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 17 | HPs |   0| MPs |  72| ATK |   0| DEF |   0| AGL |   0| INT | 119|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Orligon, StubBird, AmberWeed, BeanMan, ArmorPede, MultiEyes, Pixy,        |
+| ChopClown, CurseLamp, Petiteel, Grakos                                    |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| TWINSLASH  |   2 | Inflicts severe damage but also hurts the user.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  8 | HPs |  80| MPs |   0| ATK |  80| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| WildApe, Dumbira, ArmorPede, Skullgon                                     |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| U ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| ULTRADOWN  |   7 | Greatly weakens an enemy.                              |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 21 | HPs |   0| MPs | 110| ATK |   0| DEF |   0| AGL |   0| INT | 270|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | Defense, SlowAll, Surround                                |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Rosevine, Titanis, DeathMore2                                             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| UPPER      |   2 | Raises DEF of one monster.                             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  2 | HPs |   0| MPs |  14| ATK |   0| DEF |   0| AGL |   0| INT |  22|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Increase                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| SlimeNite, BoxSlime, PearlGel, Healer, Saccer, Catapila, ArmorPede,       |
+| ArmyCrab, CurseLamp, RushFish, Scallopa, Starfish                         |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| V ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| VACUSLASH  |   3 | A sword attack enhanced by whirlwinds.                 |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 11 | HPs |  77| MPs |  34| ATK |  66| DEF |   0| AGL |   0| INT |  76|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| FROM COMBINED | WindBeast, ChargeUp                                       |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Rayburn, WindBeast, MadCat, MadPecker, BigRoost, WarMantis, ArcDemon,     |
+| Lionex, ChopClown                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| VACUUM     |   6 | Creates a tornado with vicious winds [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 19 | HPs | 112| MPs |   0| ATK | 114| DEF |   0| AGL | 132| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to WindBeast [Skill]                                                |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| VIVIFY     |  10 | May revive a dead monster.                             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs |   0| MPs |  63| ATK |   0| DEF |   0| AGL |   0| INT |  98|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Revive                                                    |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| KingSlime, Unicorn, Egdracil, Orc, Mudron, Merman, KingSquid, Lamia       |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| W ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| WARCRY     |   3 | A terrifying cry that stops all enemies.               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 14 | HPs | 120| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| FangSlime, Drygon, GulpBeast, Yeti, Trumpeter, EyeBall, EvilWell, MerTiger|
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| WATERSHOT  |   5 | Shoots a high volume of water at an enemy.             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 13 | HPs |  74| MPs |   0| ATK |  60| DEF |   0| AGL |  84| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Tidalwave                                                 |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Bubblemon, PutreFish, RogueWave, WhaleMage                                |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| WHISTLE    |   0 | Attracts enemy monsters.                               |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV |  4 | HPs |   0| MPs |  28| ATK |   0| DEF |   0| AGL |   0| INT |  44|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Slabbit, Watabou, GiantSlug, MadCandle                                    |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| WHITEAIR   |  16 | Looses a white shining breath of ice [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs | 210| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to FrigidAir                                                        |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| WHITEFIRE  |  16 | Inflicts damage with incredible fire [all}             |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 20 | HPs | 210| MPs |   0| ATK |   0| DEF |   0| AGL |   0| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to BlazeAir                                                         |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| WINDBEAST  |   3 | Slashes a single monster with sharp whirlwinds.        |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 13 | HPs |  74| MPs |   0| ATK |  60| DEF |   0| AGL |  84| INT |   0|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Vacuum                                                    |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| WingSlime, Pteranod, MadGoose, Emyu, Garudian, Pyuro, GiantMoth, Durran,  |
+| NiteWhip, Exaucers, Aquadon, Genosidoh                                    |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| Y ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| YELLHELP   |   8 | Summons a mass of friends that attack in droves.       |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 23 | HPs | 128| MPs |  64| ATK |   0| DEF |   0| AGL |  82| INT | 134|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to CallHelp                                                         |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                 --|| Z ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
++------------+-----+--------------------------------------------------------+
+| ZAP        |  10 | Powerful bolts of lightning lash enemies [all}         |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 15 | HPs |   0| MPs |  54| ATK |   0| DEF |   0| AGL |   0| INT | 130|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| UPGRADES      | Thordain                                                  |
++---------------+-----------------------------------------------------------+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| Refer to Bolt                                                             |
++---------------------------------------------------------------------------+
+
++------------+-----+--------------------------------------------------------+
+| ZOMBIECUT  |   3 | Inflicts severe damage on the zombie family.           |
++------------+-----+--------------------------------------------------------+
+|                            SKILL REQUIREMENTS                             |
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+| LV | 12 | HPs |  64| MPs |   0| ATK |  58| DEF |   0| AGL |  62| INT |  87|
++----+----+-----+----+-----+----+-----+----+-----+----+-----+----+-----+----+
+|                     NATURAL SKILL OF LISTED MONSTERS                      |
++---------------------------------------------------------------------------+
+| MadGopher, WingTree, Stubsuck, Armorpion                                  |
++---------------------------------------------------------------------------+
+
+                                _____________
+                                --|| END ||--
+                                ¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+=============================================================================
+
