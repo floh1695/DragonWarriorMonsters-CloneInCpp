@@ -1,6 +1,14 @@
 #ifndef MONSTERCONSTANTS_H_
 #define MONSTERCONSTANTS_H_
 
+using namespace std;
+
+string getName(SpeciesNames species);
+
+enum Gender {
+  MALE, FEMALE
+};
+
 enum Families {
   SLIME, DRAGON, BEAST, BIRD, PLANT,
   BUG, DEMON, ZOMBIE, MATERIAL, WATER,
@@ -15,7 +23,7 @@ enum SpeciesNames {
   KingSlime, Metaly,    Metabble,  SpotKing,  TropicGel,
   MimeSlime, HaloSlime, MetalKing, GoldSlime, GranSlime,
   WonderEgg,
-  
+
   //Dragons
   DragonKid, Tortragon, Pteranod,  Gasgon,    FairyDrak,
   LizardMan, Poisongon, Swordgon,  Drygon,    Dragon,
@@ -24,7 +32,7 @@ enum SpeciesNames {
   GreatDrak, Crestpent, WingSnake, Coatol,    Orochi,
   BattleRex, SkyDragon, Serpentia, Divinegon, Orligon,
   GigaDraco,
-  
+
   //Beasts
   Tonguella, Almiraj,   CatFly,    PillowRat, Saccer,
   GulpBeast, Skullroo,  WindBeast, Beavern,   Antbear,
@@ -41,27 +49,27 @@ enum SpeciesNames {
   MadCondor, Emyu,      Blizzardy, Phoenix,   ZapBird,
   Garudian,  WhipBird,  FunkyBird, RainHawk,  Azurile,
   Shantak,   CragDevil,
-  
+
   //Plants
-  
-  
+
+
   //Bugs
-  
-  
+
+
   //Demons
-  
-  
+
+
   //Zombies
-  
-  
+
+
   //Materials
-  
-  
+
+
   //Waters
-  
-  
+
+
   //Bosses
-  
+
 };
 
 enum Resistances {

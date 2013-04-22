@@ -15,16 +15,16 @@ class Monster {
     //char location; // 01 = farm, 02 = team
     string name;
     //string _name_1[6]; //pointless
-    short species;
+    SpeciesNames species;
     char family;
     bool fatherIsBase;
-    bool gender;
+    Gender gender;
     char command;
     string masterName;
     char masterNumber;
 
-    short fathersSpecies;
-    short mothersSpecies;
+    SpeciesNames fathersSpecies;
+    SpeciesNames mothersSpecies;
     string fathersMastersName;
     string mothersMastersName;
     char fathersMastersNumber;
