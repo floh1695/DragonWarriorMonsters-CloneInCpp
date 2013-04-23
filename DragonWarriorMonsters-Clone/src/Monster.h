@@ -16,7 +16,7 @@ class Monster {
     string name;
     //string _name_1[6]; //pointless
     SpeciesNames species;
-    char family;
+    Families family;
     bool fatherIsBase;
     Gender gender;
     char command;

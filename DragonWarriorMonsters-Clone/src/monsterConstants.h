@@ -3,10 +3,22 @@
 
 using namespace std;
 
-string getName(SpeciesNames species);
+//int* getParameters(SpeciesNames species);
+//string getName(SpeciesNames species);
 
 enum Gender {
   MALE, FEMALE
+};
+
+enum ParameterTypes {
+  MAX_LEVEL,
+  EXPERIENCE,
+  HEALTH,
+  MANA,
+  ATTACK,
+  DEFENSE,
+  AGILITY,
+  INTELLIGENCE
 };
 
 enum Families {
@@ -51,7 +63,12 @@ enum SpeciesNames {
   Shantak,   CragDevil,
 
   //Plants
-
+  MadPlant,  FireWeed,  FloraMan,  WingTree,  CactiBall,
+  Gulpple,   Toadstool, AmberWeed, Slurperon, Stubsuck,
+  Oniono,    DanceVegi, TreeBoy,   Devipine,  FaceTree,
+  HerbMan,   BeanMan,   EvilSeed,  ManEater,  Snapper,
+  GhosTree,  Rosevine,  Egdracil,  Warubou,   Watabou,
+  Eggplaton, FooHero,
 
   //Bugs
 
@@ -70,6 +87,9 @@ enum SpeciesNames {
 
   //Bosses
 
+
+  //Others
+  SeaKing
 };
 
 enum Resistances {

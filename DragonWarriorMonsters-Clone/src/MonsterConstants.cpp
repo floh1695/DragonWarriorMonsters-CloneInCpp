@@ -1,11 +1,24 @@
+#include <iostream>
 #include <string>
 
 #include "monsterConstants.h"
 
 using namespace std;
 
+/*
+int* getParameters(SpeciesNames species) {
+  switch (species) {
+    case DrakSlime:
+      return {};
+    default:
+      cout << "A monster was created without any parameters...";
+      return {0, 0, 0, 0, 0, 0, 0, 0};
+  }
+}
+*/
+
 string getName(SpeciesNames species) {
-  switch(species) {
+  switch (species) {
     case DrakSlime:
       return "Dragon Slime";
     case SpotSlime:
@@ -39,9 +52,9 @@ string getName(SpeciesNames species) {
     case KingSlime:
       return "King Slime";
     case Metaly:
-      return  "Metal Slime";
+      return "Metal Slime";
     case Metabble:
-       return "Liquid Metal Slime";
+      return "Liquid Metal Slime";
     case SpotKing:
       return "Spotted King Slime";
     case TropicGel:
@@ -58,6 +71,12 @@ string getName(SpeciesNames species) {
       return "Grandpa Slime";
     case WonderEgg:
       return "Wonderful Egg";
+    case DragonKid:
+      return "Dragon Kid";
+
+    case SeaKing:
+      return "FuckYeah!";
+
     default:
       return "NO-NAME-ASSIGNED";
   }
