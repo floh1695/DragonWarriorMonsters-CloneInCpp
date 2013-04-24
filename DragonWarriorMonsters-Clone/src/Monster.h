@@ -19,25 +19,25 @@ class Monster {
     Families family;
     bool fatherIsBase;
     Gender gender;
-    char command;
+    Commands command;
     string masterName;
-    char masterNumber;
+    int masterNumber;
 
     SpeciesNames fathersSpecies;
     SpeciesNames mothersSpecies;
     string fathersMastersName;
     string mothersMastersName;
-    char fathersMastersNumber;
-    char mothersMastersNumber;
+    int fathersMastersNumber;
+    int mothersMastersNumber;
     string fathersName;
     string mothersName;
-    char fathersPlus;
-    char mothersPlus;
+    int fathersPlus;
+    int mothersPlus;
 
-    char skills[8];
-    char skillList[25];
-    char status;
-    char currentLevel;
+    Skills skills[8];
+    Skills skillList[25];
+    int status;
+    int currentLevel;
     int experience;
     short maxHP;
     short currentHP;
@@ -51,7 +51,7 @@ class Monster {
     char pluses;
     bool isEgg;
     unsigned char personality[4];
-    char resistances[27];
+    int resistances[27];
 };
 
 #endif

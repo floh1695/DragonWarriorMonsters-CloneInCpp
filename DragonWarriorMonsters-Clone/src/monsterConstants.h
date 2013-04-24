@@ -6,6 +6,10 @@ using namespace std;
 //int* getParameters(SpeciesNames species);
 //string getName(SpeciesNames species);
 
+enum Skills {
+  Ahhh, Antidote, AquaCut, AquaWall,
+};
+
 enum Gender {
   MALE, FEMALE
 };
