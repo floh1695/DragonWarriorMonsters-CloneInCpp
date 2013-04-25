@@ -38,18 +38,19 @@ class Monster {
 
     Skill skills[8];
     Skill skillList[25];
-    int status;
+    Status status;
     int currentLevel;
     int experience;
-    short maxHP;
-    short currentHP;
-    short maxMP;
-    short currentMP;
-    short attack;
-    short defense;
-    short intelligence;
-    short agility;
-    short wild;
+    int maxHP;
+    int currentHP;
+    int maxMP;
+    int currentMP;
+    int attack;
+    int defense;
+    int intelligence;
+    int agility;
+    int wild;
+
     char pluses;
     bool isEgg;
     unsigned char personality[4];
