@@ -116,4 +116,8 @@ enum Command {
   NoMP
 };
 
+enum Status {
+  NOMINAL, DEAD, POISONED
+};
+
 #endif
