@@ -24,14 +24,8 @@ enum Gender {
 };
 
 enum ParameterType {
-  MAX_LEVEL,
-  EXPERIENCE,
-  HEALTH,
-  MANA,
-  ATTACK,
-  DEFENSE,
-  AGILITY,
-  INTELLIGENCE
+  MAX_LEVEL, EXPERIENCE, HEALTH, MANA, ATTACK,
+  DEFENSE, AGILITY, INTELLIGENCE, WILD
 };
 
 enum Family {
