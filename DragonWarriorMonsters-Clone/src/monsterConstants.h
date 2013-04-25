@@ -3,18 +3,27 @@
 
 using namespace std;
 
-//int* getParameters(SpeciesNames species);
-//string getName(SpeciesNames species);
+/*
+int* getParameters(SpeciesName species);
+string getName(SpeciesName species);
+*/
 
-enum Skills {
-  Ahhh, Antidote, AquaCut, AquaWall,
+enum Skill {
+  Ahhh,      Antidote,  AquaCut,   AquaWall,  Bang,
+  Barrier,   BazooCall, BeastCut,  Beat,      BeDragon,
+  Berserker, BiAttack,  BigBang,   BigTrip,   BirdBlow,
+  Bladed,    Blaze,     BlazeAir,  BlazeMore, BlazeMost,
+  Blizzard,  Bolt,      BoltSlash, Boom,      Bounce,
+  BugBlow,   CallHelp,  Chance,    ChargeUp,  CleanCut,
+  Cover,     Curse,     CurseOff,  DanceOff,  DeChaos,
+  Defeat,    Defense,   DeMagic,   DevilCut,  DiagoCall
 };
 
 enum Gender {
   MALE, FEMALE
 };
 
-enum ParameterTypes {
+enum ParameterType {
   MAX_LEVEL,
   EXPERIENCE,
   HEALTH,
@@ -25,13 +34,13 @@ enum ParameterTypes {
   INTELLIGENCE
 };
 
-enum Families {
+enum Family {
   SLIME, DRAGON, BEAST, BIRD, PLANT,
   BUG, DEMON, ZOMBIE, MATERIAL, WATER,
   BOSS
 };
 
-enum SpeciesNames {
+enum SpeciesName {
   //Slimes
   DrakSlime, SpotSlime, WingSlime, TreeSlime, Snaily,
   SlimeNite, Babble,    BoxSlime,  PearlGel,  Slime,
@@ -96,7 +105,7 @@ enum SpeciesNames {
   SeaKing
 };
 
-enum Resistances {
+enum Resistance {
   A, B, C, D, E,
   F, G, H, I, J,
   K, L, M, N, O,
@@ -105,10 +114,10 @@ enum Resistances {
   Z, AE
 };
 
-enum Commands {
+enum Command {
   Charge,
   Mixed,
-  Defense,
+  Defending,
   Command,
   NoMP
 };

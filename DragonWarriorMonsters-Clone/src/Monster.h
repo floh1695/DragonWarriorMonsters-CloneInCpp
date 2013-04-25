@@ -10,21 +10,23 @@ using namespace std;
 
 class Monster {
   public:
+    Monster();
+    ~Monster();
   protected:
   private:
     //char location; // 01 = farm, 02 = team
     string name;
     //string _name_1[6]; //pointless
-    SpeciesNames species;
-    Families family;
+    SpeciesName species;
+    Family family;
     bool fatherIsBase;
     Gender gender;
-    Commands command;
+    Command command;
     string masterName;
     int masterNumber;
 
-    SpeciesNames fathersSpecies;
-    SpeciesNames mothersSpecies;
+    SpeciesName fathersSpecies;
+    SpeciesName mothersSpecies;
     string fathersMastersName;
     string mothersMastersName;
     int fathersMastersNumber;
@@ -34,8 +36,8 @@ class Monster {
     int fathersPlus;
     int mothersPlus;
 
-    Skills skills[8];
-    Skills skillList[25];
+    Skill skills[8];
+    Skill skillList[25];
     int status;
     int currentLevel;
     int experience;

@@ -17,64 +17,64 @@ int* getParameters(SpeciesNames species) {
 }
 */
 
-string getName(SpeciesNames species) {
+string getNameFromSpeciesName(SpeciesName species) {
   switch (species) {
-    case DrakSlime:
+    case SpeciesName::DrakSlime:
       return "Dragon Slime";
-    case SpotSlime:
+    case SpeciesName::SpotSlime:
       return "Spotted Slime";
-    case WingSlime:
+    case SpeciesName::WingSlime:
       return "Winged Slime";
-    case TreeSlime:
+    case SpeciesName::TreeSlime:
       return "Tree Slime";
-    case Snaily:
+    case SpeciesName::Snaily:
       return "Snail Slime";
-    case SlimeNite:
+    case SpeciesName::SlimeNite:
       return "Slime Knight";
-    case Babble:
+    case SpeciesName::Babble:
       return "Bubble Slime";
-    case BoxSlime:
+    case SpeciesName::BoxSlime:
       return "Box Slime";
-    case PearlGel:
+    case SpeciesName::PearlGel:
       return "Pearl Slime";
-    case Slime:
+    case SpeciesName::Slime:
       return "Slime";
-    case Healer:
+    case SpeciesName::Healer:
       return "Heal Slime";
-    case FangSlime:
+    case SpeciesName::FangSlime:
       return "Wild Slime";
-    case RockSlime:
+    case SpeciesName::RockSlime:
       return "Rock Slime";
-    case SlimeBorg:
+    case SpeciesName::SlimeBorg:
       return "Cyborg Slime";
-    case Slabbit:
+    case SpeciesName::Slabbit:
       return "Rabbit Slime";
-    case KingSlime:
+    case SpeciesName::KingSlime:
       return "King Slime";
-    case Metaly:
+    case SpeciesName::Metaly:
       return "Metal Slime";
-    case Metabble:
+    case SpeciesName::Metabble:
       return "Liquid Metal Slime";
-    case SpotKing:
+    case SpeciesName::SpotKing:
       return "Spotted King Slime";
-    case TropicGel:
+    case SpeciesName::TropicGel:
       return "Tropical Slime";
-    case MimeSlime:
+    case SpeciesName::MimeSlime:
       return "Mime Slime";
-    case HaloSlime:
+    case SpeciesName::HaloSlime:
       return "Angel Slime";
-    case MetalKing:
+    case SpeciesName::MetalKing:
       return "Metal King Slime";
-    case GoldSlime:
+    case SpeciesName::GoldSlime:
       return "Golden Slime";
-    case GranSlime:
+    case SpeciesName::GranSlime:
       return "Grandpa Slime";
-    case WonderEgg:
+    case SpeciesName::WonderEgg:
       return "Wonderful Egg";
-    case DragonKid:
+    case SpeciesName::DragonKid:
       return "Dragon Kid";
 
-    case SeaKing:
+    case SpeciesName::SeaKing:
       return "FuckYeah!";
 
     default:

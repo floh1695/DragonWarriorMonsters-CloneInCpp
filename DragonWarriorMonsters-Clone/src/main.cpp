@@ -9,6 +9,6 @@ using namespace std;
 
 int main() {
   cout << "sizeof(char)\t\t=> " << sizeof(char) << "\n";
-  cout << "sizeof(SpeciesNames)\t=> " << sizeof(SpeciesNames) << "\n";
+  cout << "sizeof(SpeciesNames)\t=> " << sizeof(SpeciesName) << "\n";
   return 0;
 }
