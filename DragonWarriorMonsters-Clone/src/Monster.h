@@ -11,7 +11,9 @@ using namespace std;
 class Monster {
   public:
     Monster();
+    Monster(SpeciesName);
     ~Monster();
+    friend std::ostream& operator<<(std::ostream&, const Monster&);
   protected:
   private:
     //char location; // 01 = farm, 02 = team
@@ -53,7 +55,7 @@ class Monster {
 
     char pluses;
     bool isEgg;
-    unsigned char personality[4];
+    Command personality[4];
     int resistances[27];
 };
 

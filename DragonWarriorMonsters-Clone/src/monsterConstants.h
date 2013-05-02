@@ -1,12 +1,9 @@
 #ifndef MONSTERCONSTANTS_H_
 #define MONSTERCONSTANTS_H_
 
-using namespace std;
 
-/*
-int* getParameters(SpeciesName species);
-string getName(SpeciesName species);
-*/
+
+using namespace std;
 
 enum Skill {
   Ahhh,      Antidote,  AquaCut,   AquaWall,  Bang,
@@ -112,12 +109,15 @@ enum Command {
   Charge,
   Mixed,
   Defending,
-  Command,
+  Direction,
   NoMP
 };
 
 enum Status {
   NOMINAL, DEAD, POISONED
 };
+
+//int* getParameters(SpeciesName species);                                                                                                      
+string getNameFromSpeciesName(SpeciesName species);
 
 #endif
