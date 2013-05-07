@@ -8,36 +8,43 @@ ProgramingLanguages = [
 			CoffeeScript <- JavaScript
 			Python
 			Ruby
-			.NET:
+			.NET = [
 				F#
 				VisualBasic
-			Apple:
+			]
+			Apple = [
 				AppleScript <- Shell
-			Shell <- make
-			CMake <- Make
+			]
+			'Shell' <- 'Make'
+			'CMake' <- 'Make'
 		]
 		Unclean = [
-			JavaScript
-			SQL:
-				SQLite
-				MySQL
-			PHP
-			Make
+			'JavaScript'
+			SQL = [
+				'SQLite'
+				'MySQL'
+			]
+			'PHP'
+			'Make'
 		]
 	]
 	Compiled:
-		General:
-			C
-			C++ <- C
-			Java
-			Android <- Java
-		Apple:
+		General = [
+			'C'
+			'C++' <- 'C'
+			'Java'
+			'Android' => 'Java'
+		]
+		Apple = [
 			ObjectiveC
-			ObjectiveC++ <- ObjectiveC
-		.NET:
-			C#
-	Markup:
-		XML
-		HTML
-		CSS
+			'ObjectiveC++' => 'ObjectiveC'
+		]
+		.NET = [
+			'C#'
+		]
+	Markup = [
+		'XML'
+		'HTML'
+		'CSS'
+	]
 ]
