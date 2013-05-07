@@ -1,9 +1,10 @@
-ProgramingLanguages:
-  Scripting:
-		Scientific:
+ProgramingLanguages = [
+  Scripting = [
+		Scientific = [
 			Haskell
 			Octave
-		Clean:
+		]
+		Clean = [
 			CoffeeScript <- JavaScript
 			Python
 			Ruby
@@ -14,13 +15,16 @@ ProgramingLanguages:
 				AppleScript <- Shell
 			Shell <- make
 			CMake <- Make
-		Unclean:
+		]
+		Unclean = [
 			JavaScript
 			SQL:
 				SQLite
 				MySQL
 			PHP
 			Make
+		]
+	]
 	Compiled:
 		General:
 			C
@@ -36,3 +40,4 @@ ProgramingLanguages:
 		XML
 		HTML
 		CSS
+]
