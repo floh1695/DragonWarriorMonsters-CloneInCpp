@@ -1,50 +1,51 @@
 ProgramingLanguages = [
   Scripting = [
 		Scientific = [
-			Haskell
-			Octave
+			'Haskell',
+			'Octave'
 		]
 		Clean = [
-			CoffeeScript <- JavaScript
-			Python
-			Ruby
+			'CoffeeScript' => 'JavaScript',
+			'Python',
+			'Ruby'
 			.NET = [
-				F#
-				VisualBasic
+				'F#',
+				'VisualBasic'
 			]
 			Apple = [
-				AppleScript <- Shell
+				'AppleScript' => 'Shell'
 			]
-			'Shell' <- 'Make'
-			'CMake' <- 'Make'
+			'Shell' => 'Make',
+			'CMake' => 'Make'
 		]
 		Unclean = [
 			'JavaScript'
 			SQL = [
-				'SQLite'
+				'SQLite',
 				'MySQL'
-			]
-			'PHP'
+			],
+			'PHP',
 			'Make'
 		]
 	]
-	Compiled:
+	Compiled = [
 		General = [
-			'C'
-			'C++' <- 'C'
-			'Java'
+			'C',
+			'C++' => 'C',
+			'Java',
 			'Android' => 'Java'
-		]
+		],
 		Apple = [
-			ObjectiveC
+			'ObjectiveC',
 			'ObjectiveC++' => 'ObjectiveC'
-		]
+		],
 		.NET = [
 			'C#'
 		]
+	],
 	Markup = [
-		'XML'
-		'HTML'
+		'XML',
+		'HTML',
 		'CSS'
 	]
 ]
